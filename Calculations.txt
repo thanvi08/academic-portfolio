@@ -1,0 +1,21 @@
+1. average number of successful chain construction per miner 
+
+Total Number time units registered = 49
+Transactions pushed by E1 = 34
+Transactions pushed by E2 = 24
+
+
+average number of successful chain construction for E1 = 34/49 = 0.69
+
+average number of successful chain construction for E2 = 24/49 = 0.48
+
+
+2. Average number of transaction attempts per time unit 
+
+
+Total Number of transactions attempted = 6824
+Total Number of time units registered = 1706
+ 
+
+
+Average number of transaction attempts per time unit = 6824/1706 = 4

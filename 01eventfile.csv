@@ -1,0 +1,6825 @@
+Tick ,Customer ID,State
+5,4,Null Transaction
+5,3,Null Transaction
+5,2,Null Transaction
+5,1,Null Transaction
+8,4,Null Transaction
+8,3,Null Transaction
+8,2,Null Transaction
+8,1,Null Transaction
+6,4,Null Transaction
+6,3,Null Transaction
+6,2,Null Transaction
+6,1,Null Transaction
+11,4,Null Transaction
+11,3,Null Transaction
+11,2,Buy
+11,1,Null Transaction
+7,4,Buy
+7,3,Buy
+7,2,Null Transaction
+7,1,Buy
+12,4,Null Transaction
+12,3,Buy
+12,2,Null Transaction
+12,1,Null Transaction
+17,4,Null Transaction
+17,3,Null Transaction
+17,2,Null Transaction
+17,1,Null Transaction
+18,4,Null Transaction
+18,3,Null Transaction
+18,2,Null Transaction
+18,1,Null Transaction
+24,4,Null Transaction
+24,3,Buy
+24,2,Null Transaction
+24,1,Null Transaction
+23,4,Buy
+23,3,Null Transaction
+23,2,Null Transaction
+23,1,Null Transaction
+20,4,Buy
+20,3,Null Transaction
+20,2,Buy
+20,1,Buy
+29,4,Null Transaction
+29,3,Null Transaction
+29,2,Null Transaction
+29,1,Null Transaction
+35,4,Null Transaction
+35,3,Null Transaction
+35,2,Null Transaction
+35,1,Null Transaction
+32,4,Null Transaction
+32,3,Buy
+32,2,Null Transaction
+32,1,Null Transaction
+41,4,Null Transaction
+41,3,Buy
+41,2,Null Transaction
+41,1,Null Transaction
+43,4,Null Transaction
+43,3,Null Transaction
+43,2,Null Transaction
+43,1,Null Transaction
+44,4,Null Transaction
+44,3,Null Transaction
+44,2,Null Transaction
+44,1,Null Transaction
+45,4,Null Transaction
+45,3,Buy
+45,2,Null Transaction
+45,1,Null Transaction
+44,4,Null Transaction
+44,3,Null Transaction
+44,2,Null Transaction
+44,1,Null Transaction
+40,4,Null Transaction
+40,3,Null Transaction
+40,2,Null Transaction
+40,1,Buy
+45,4,Null Transaction
+45,3,Null Transaction
+45,2,Null Transaction
+45,1,Buy
+56,4,Null Transaction
+56,3,Null Transaction
+56,2,Null Transaction
+56,1,Null Transaction
+67,4,Null Transaction
+67,3,Null Transaction
+67,2,Buy
+67,1,Null Transaction
+62,4,Buy
+62,3,Null Transaction
+62,2,Buy
+62,1,Null Transaction
+72,4,Null Transaction
+72,3,Buy
+72,2,Null Transaction
+72,1,Buy
+79,4,Null Transaction
+79,3,Null Transaction
+79,2,Buy
+79,1,Buy
+87,4,Buy
+87,3,Null Transaction
+87,2,Null Transaction
+87,1,Null Transaction
+89,4,Null Transaction
+89,3,Buy
+89,2,Null Transaction
+89,1,Buy
+98,4,Null Transaction
+98,3,Null Transaction
+98,2,Buy
+98,1,Buy
+106,4,Null Transaction
+106,3,Null Transaction
+106,2,Null Transaction
+106,1,Null Transaction
+116,4,Null Transaction
+116,3,Null Transaction
+116,2,Null Transaction
+116,1,Null Transaction
+112,4,Buy
+112,3,Null Transaction
+112,2,Null Transaction
+112,1,Null Transaction
+118,4,Null Transaction
+118,3,Null Transaction
+118,2,Null Transaction
+118,1,Null Transaction
+128,4,Buy
+128,3,Null Transaction
+128,2,Null Transaction
+128,1,Buy
+129,4,Buy
+129,3,Null Transaction
+129,2,Buy
+129,1,Null Transaction
+134,4,Buy
+134,3,Null Transaction
+134,2,Null Transaction
+134,1,Null Transaction
+140,4,Null Transaction
+140,3,Null Transaction
+140,2,Null Transaction
+140,1,Null Transaction
+149,4,Null Transaction
+149,3,Null Transaction
+149,2,Null Transaction
+149,1,Buy
+145,4,Null Transaction
+145,3,Null Transaction
+145,2,Null Transaction
+145,1,Null Transaction
+149,4,Null Transaction
+149,3,Null Transaction
+149,2,Null Transaction
+149,1,Null Transaction
+149,4,Buy
+149,3,Null Transaction
+149,2,Null Transaction
+149,1,Null Transaction
+155,4,Null Transaction
+155,3,Buy
+155,2,Null Transaction
+155,1,Null Transaction
+159,4,Buy
+159,3,Null Transaction
+159,2,Null Transaction
+159,1,Null Transaction
+162,4,Buy
+162,3,Null Transaction
+162,2,Null Transaction
+162,1,Null Transaction
+172,4,Null Transaction
+172,3,Null Transaction
+172,2,Buy
+172,1,Null Transaction
+178,4,Buy
+178,3,Null Transaction
+178,2,Null Transaction
+178,1,Null Transaction
+189,4,Null Transaction
+189,3,Null Transaction
+189,2,Null Transaction
+189,1,Null Transaction
+197,4,Null Transaction
+197,3,Null Transaction
+197,2,Null Transaction
+197,1,Null Transaction
+198,4,Null Transaction
+198,3,Null Transaction
+198,2,Null Transaction
+198,1,Buy
+199,4,Null Transaction
+199,3,Null Transaction
+199,2,Null Transaction
+199,1,Null Transaction
+210,4,Null Transaction
+210,3,Null Transaction
+210,2,Buy
+210,1,Null Transaction
+209,4,Null Transaction
+209,3,Null Transaction
+209,2,Buy
+209,1,Buy
+220,4,Null Transaction
+220,3,Null Transaction
+220,2,Null Transaction
+220,1,Null Transaction
+230,4,Null Transaction
+230,3,Null Transaction
+230,2,Null Transaction
+230,1,Null Transaction
+223,4,Buy
+223,3,Buy
+223,2,Null Transaction
+223,1,Null Transaction
+225,4,Null Transaction
+225,3,Buy
+225,2,Null Transaction
+225,1,Null Transaction
+232,4,Null Transaction
+232,3,Null Transaction
+232,2,Buy
+232,1,Null Transaction
+230,4,Null Transaction
+230,3,Buy
+230,2,Null Transaction
+230,1,Null Transaction
+241,4,Null Transaction
+241,3,Null Transaction
+241,2,Null Transaction
+241,1,Null Transaction
+238,4,Null Transaction
+238,3,Buy
+238,2,Null Transaction
+238,1,Buy
+237,4,Null Transaction
+237,3,Null Transaction
+237,2,Buy
+237,1,Null Transaction
+243,4,Null Transaction
+243,3,Null Transaction
+243,2,Buy
+243,1,Null Transaction
+244,4,Buy
+244,3,Buy
+244,2,Null Transaction
+244,1,Null Transaction
+250,4,Null Transaction
+250,3,Buy
+250,2,Buy
+250,1,Buy
+254,4,Null Transaction
+254,3,Buy
+254,2,Null Transaction
+254,1,Null Transaction
+264,4,Null Transaction
+264,3,Null Transaction
+264,2,Null Transaction
+264,1,Buy
+260,4,Null Transaction
+260,3,Null Transaction
+260,2,Null Transaction
+260,1,Buy
+268,4,Null Transaction
+268,3,Buy
+268,2,Null Transaction
+268,1,Buy
+279,4,Null Transaction
+279,3,Null Transaction
+279,2,Null Transaction
+279,1,Null Transaction
+283,4,Null Transaction
+283,3,Null Transaction
+283,2,Null Transaction
+283,1,Buy
+287,4,Null Transaction
+287,3,Buy
+287,2,Null Transaction
+287,1,Null Transaction
+290,4,Null Transaction
+290,3,Null Transaction
+290,2,Buy
+290,1,Null Transaction
+290,4,Buy
+290,3,Null Transaction
+290,2,Buy
+290,1,Null Transaction
+298,4,Null Transaction
+298,3,Null Transaction
+298,2,Null Transaction
+298,1,Null Transaction
+300,4,Null Transaction
+300,3,Null Transaction
+300,2,Null Transaction
+300,1,Null Transaction
+302,4,Null Transaction
+302,3,Null Transaction
+302,2,Null Transaction
+302,1,Null Transaction
+307,4,Null Transaction
+307,3,Null Transaction
+307,2,Null Transaction
+307,1,Null Transaction
+307,4,Buy
+307,3,Buy
+307,2,Buy
+307,1,Null Transaction
+311,4,Null Transaction
+311,3,Null Transaction
+311,2,Null Transaction
+311,1,Buy
+321,4,Null Transaction
+321,3,Null Transaction
+321,2,Buy
+321,1,Null Transaction
+325,4,Null Transaction
+325,3,Null Transaction
+325,2,Buy
+325,1,Buy
+326,4,Null Transaction
+326,3,Null Transaction
+326,2,Null Transaction
+326,1,Buy
+329,4,Null Transaction
+329,3,Null Transaction
+329,2,Null Transaction
+329,1,Buy
+335,4,Null Transaction
+335,3,Null Transaction
+335,2,Null Transaction
+335,1,Null Transaction
+342,4,Null Transaction
+342,3,Null Transaction
+342,2,Null Transaction
+342,1,Null Transaction
+344,4,Null Transaction
+344,3,Null Transaction
+344,2,Null Transaction
+344,1,Null Transaction
+347,4,Null Transaction
+347,3,Null Transaction
+347,2,Buy
+347,1,Null Transaction
+340,4,Null Transaction
+340,3,Null Transaction
+340,2,Null Transaction
+340,1,Null Transaction
+348,4,Null Transaction
+348,3,Null Transaction
+348,2,Buy
+348,1,Null Transaction
+347,4,Null Transaction
+347,3,Null Transaction
+347,2,Null Transaction
+347,1,Null Transaction
+343,4,Null Transaction
+343,3,Null Transaction
+343,2,Buy
+343,1,Null Transaction
+345,4,Null Transaction
+345,3,Null Transaction
+345,2,Buy
+345,1,Null Transaction
+353,4,Null Transaction
+353,3,Buy
+353,2,Null Transaction
+353,1,Null Transaction
+353,4,Null Transaction
+353,3,Null Transaction
+353,2,Null Transaction
+353,1,Null Transaction
+352,4,Buy
+352,3,Null Transaction
+352,2,Null Transaction
+352,1,Buy
+351,4,Null Transaction
+351,3,Null Transaction
+351,2,Null Transaction
+351,1,Null Transaction
+360,4,Null Transaction
+360,3,Null Transaction
+360,2,Null Transaction
+360,1,Null Transaction
+363,4,Buy
+363,3,Null Transaction
+363,2,Null Transaction
+363,1,Null Transaction
+360,4,Null Transaction
+360,3,Buy
+360,2,Null Transaction
+360,1,Null Transaction
+370,4,Null Transaction
+370,3,Null Transaction
+370,2,Null Transaction
+370,1,Null Transaction
+372,4,Null Transaction
+372,3,Null Transaction
+372,2,Buy
+372,1,Null Transaction
+371,4,Null Transaction
+371,3,Null Transaction
+371,2,Buy
+371,1,Null Transaction
+367,4,Buy
+367,3,Null Transaction
+367,2,Buy
+367,1,Null Transaction
+373,4,Null Transaction
+373,3,Null Transaction
+373,2,Buy
+373,1,Null Transaction
+382,4,Null Transaction
+382,3,Buy
+382,2,Null Transaction
+382,1,Null Transaction
+381,4,Null Transaction
+381,3,Null Transaction
+381,2,Buy
+381,1,Null Transaction
+378,4,Null Transaction
+378,3,Null Transaction
+378,2,Null Transaction
+378,1,Buy
+378,4,Null Transaction
+378,3,Null Transaction
+378,2,Null Transaction
+378,1,Null Transaction
+381,4,Null Transaction
+381,3,Null Transaction
+381,2,Buy
+381,1,Null Transaction
+384,4,Null Transaction
+384,3,Null Transaction
+384,2,Buy
+384,1,Null Transaction
+388,4,Buy
+388,3,Null Transaction
+388,2,Buy
+388,1,Buy
+382,4,Null Transaction
+382,3,Buy
+382,2,Buy
+382,1,Buy
+388,4,Buy
+388,3,Null Transaction
+388,2,Buy
+388,1,Null Transaction
+390,4,Null Transaction
+390,3,Null Transaction
+390,2,Buy
+390,1,Null Transaction
+397,4,Null Transaction
+397,3,Null Transaction
+397,2,Null Transaction
+397,1,Null Transaction
+393,4,Buy
+393,3,Null Transaction
+393,2,Buy
+393,1,Null Transaction
+400,4,Null Transaction
+400,3,Null Transaction
+400,2,Null Transaction
+400,1,Null Transaction
+409,4,Null Transaction
+409,3,Null Transaction
+409,2,Null Transaction
+409,1,Null Transaction
+403,4,Null Transaction
+403,3,Null Transaction
+403,2,Buy
+403,1,Null Transaction
+409,4,Buy
+409,3,Buy
+409,2,Buy
+409,1,Buy
+408,4,Buy
+408,3,Null Transaction
+408,2,Null Transaction
+408,1,Buy
+416,4,Null Transaction
+416,3,Buy
+416,2,Null Transaction
+416,1,Null Transaction
+419,4,Null Transaction
+419,3,Null Transaction
+419,2,Buy
+419,1,Null Transaction
+422,4,Null Transaction
+422,3,Buy
+422,2,Null Transaction
+422,1,Null Transaction
+428,4,Null Transaction
+428,3,Null Transaction
+428,2,Null Transaction
+428,1,Null Transaction
+430,4,Null Transaction
+430,3,Null Transaction
+430,2,Null Transaction
+430,1,Null Transaction
+425,4,Null Transaction
+425,3,Null Transaction
+425,2,Null Transaction
+425,1,Buy
+423,4,Null Transaction
+423,3,Null Transaction
+423,2,Null Transaction
+423,1,Null Transaction
+425,4,Null Transaction
+425,3,Null Transaction
+425,2,Null Transaction
+425,1,Buy
+426,4,Null Transaction
+426,3,Null Transaction
+426,2,Null Transaction
+426,1,Null Transaction
+430,4,Null Transaction
+430,3,Null Transaction
+430,2,Null Transaction
+430,1,Buy
+427,4,Buy
+427,3,Null Transaction
+427,2,Null Transaction
+427,1,Null Transaction
+431,4,Null Transaction
+431,3,Null Transaction
+431,2,Buy
+431,1,Buy
+433,4,Null Transaction
+433,3,Buy
+433,2,Buy
+433,1,Buy
+434,4,Null Transaction
+434,3,Buy
+434,2,Null Transaction
+434,1,Null Transaction
+439,4,Null Transaction
+439,3,Null Transaction
+439,2,Null Transaction
+439,1,Buy
+433,4,Null Transaction
+433,3,Null Transaction
+433,2,Null Transaction
+433,1,Buy
+435,4,Null Transaction
+435,3,Buy
+435,2,Null Transaction
+435,1,Buy
+439,4,Buy
+439,3,Null Transaction
+439,2,Null Transaction
+439,1,Buy
+443,4,Null Transaction
+443,3,Buy
+443,2,Null Transaction
+443,1,Null Transaction
+443,4,Null Transaction
+443,3,Null Transaction
+443,2,Null Transaction
+443,1,Null Transaction
+437,4,Null Transaction
+437,3,Buy
+437,2,Buy
+437,1,Null Transaction
+439,4,Null Transaction
+439,3,Buy
+439,2,Null Transaction
+439,1,Null Transaction
+440,4,Null Transaction
+440,3,Null Transaction
+440,2,Null Transaction
+440,1,Null Transaction
+446,4,Buy
+446,3,Buy
+446,2,Null Transaction
+446,1,Null Transaction
+449,4,Null Transaction
+449,3,Buy
+449,2,Null Transaction
+449,1,Null Transaction
+450,4,Null Transaction
+450,3,Buy
+450,2,Null Transaction
+450,1,Buy
+446,4,Null Transaction
+446,3,Null Transaction
+446,2,Null Transaction
+446,1,Null Transaction
+445,4,Buy
+445,3,Null Transaction
+445,2,Buy
+445,1,Null Transaction
+449,4,Null Transaction
+449,3,Null Transaction
+449,2,Null Transaction
+449,1,Null Transaction
+450,4,Null Transaction
+450,3,Null Transaction
+450,2,Null Transaction
+450,1,Null Transaction
+450,4,Null Transaction
+450,3,Null Transaction
+450,2,Null Transaction
+450,1,Buy
+454,4,Null Transaction
+454,3,Null Transaction
+454,2,Null Transaction
+454,1,Null Transaction
+450,4,Null Transaction
+450,3,Null Transaction
+450,2,Null Transaction
+450,1,Null Transaction
+456,4,Null Transaction
+456,3,Null Transaction
+456,2,Buy
+456,1,Null Transaction
+460,4,Buy
+460,3,Buy
+460,2,Buy
+460,1,Null Transaction
+456,4,Null Transaction
+456,3,Buy
+456,2,Null Transaction
+456,1,Null Transaction
+455,4,Null Transaction
+455,3,Buy
+455,2,Null Transaction
+455,1,Null Transaction
+456,4,Null Transaction
+456,3,Null Transaction
+456,2,Null Transaction
+456,1,Buy
+455,4,Null Transaction
+455,3,Null Transaction
+455,2,Buy
+455,1,Null Transaction
+462,4,Null Transaction
+462,3,Null Transaction
+462,2,Buy
+462,1,Null Transaction
+466,4,Null Transaction
+466,3,Null Transaction
+466,2,Null Transaction
+466,1,Buy
+466,4,Null Transaction
+466,3,Null Transaction
+466,2,Null Transaction
+466,1,Null Transaction
+460,4,Null Transaction
+460,3,Buy
+460,2,Buy
+460,1,Null Transaction
+465,4,Null Transaction
+465,3,Null Transaction
+465,2,Buy
+465,1,Null Transaction
+463,4,Null Transaction
+463,3,Buy
+463,2,Null Transaction
+463,1,Null Transaction
+469,4,Null Transaction
+469,3,Null Transaction
+469,2,Null Transaction
+469,1,Null Transaction
+472,4,Null Transaction
+472,3,Null Transaction
+472,2,Null Transaction
+472,1,Null Transaction
+472,4,Null Transaction
+472,3,Null Transaction
+472,2,Buy
+472,1,Buy
+471,4,Null Transaction
+471,3,Buy
+471,2,Null Transaction
+471,1,Null Transaction
+473,4,Buy
+473,3,Null Transaction
+473,2,Buy
+473,1,Null Transaction
+474,4,Buy
+474,3,Null Transaction
+474,2,Null Transaction
+474,1,Null Transaction
+472,4,Null Transaction
+472,3,Buy
+472,2,Buy
+472,1,Null Transaction
+477,4,Buy
+477,3,Null Transaction
+477,2,Buy
+477,1,Null Transaction
+478,4,Null Transaction
+478,3,Null Transaction
+478,2,Null Transaction
+478,1,Null Transaction
+476,4,Null Transaction
+476,3,Buy
+476,2,Null Transaction
+476,1,Buy
+474,4,Null Transaction
+474,3,Null Transaction
+474,2,Null Transaction
+474,1,Null Transaction
+477,4,Null Transaction
+477,3,Null Transaction
+477,2,Null Transaction
+477,1,Buy
+479,4,Buy
+479,3,Null Transaction
+479,2,Null Transaction
+479,1,Buy
+477,4,Buy
+477,3,Null Transaction
+477,2,Null Transaction
+477,1,Null Transaction
+478,4,Buy
+478,3,Buy
+478,2,Null Transaction
+478,1,Null Transaction
+480,4,Null Transaction
+480,3,Null Transaction
+480,2,Buy
+480,1,Null Transaction
+478,4,Null Transaction
+478,3,Null Transaction
+478,2,Null Transaction
+478,1,Null Transaction
+486,4,Null Transaction
+486,3,Buy
+486,2,Null Transaction
+486,1,Null Transaction
+487,4,Null Transaction
+487,3,Buy
+487,2,Null Transaction
+487,1,Null Transaction
+483,4,Null Transaction
+483,3,Null Transaction
+483,2,Null Transaction
+483,1,Null Transaction
+483,4,Buy
+483,3,Buy
+483,2,Buy
+483,1,Null Transaction
+489,4,Buy
+489,3,Null Transaction
+489,2,Buy
+489,1,Buy
+486,4,Null Transaction
+486,3,Buy
+486,2,Null Transaction
+486,1,Null Transaction
+486,4,Null Transaction
+486,3,Null Transaction
+486,2,Null Transaction
+486,1,Buy
+486,4,Null Transaction
+486,3,Buy
+486,2,Null Transaction
+486,1,Null Transaction
+491,4,Null Transaction
+491,3,Null Transaction
+491,2,Null Transaction
+491,1,Buy
+491,4,Null Transaction
+491,3,Buy
+491,2,Null Transaction
+491,1,Null Transaction
+490,4,Null Transaction
+490,3,Null Transaction
+490,2,Null Transaction
+490,1,Buy
+491,4,Null Transaction
+491,3,Null Transaction
+491,2,Null Transaction
+491,1,Null Transaction
+496,4,Null Transaction
+496,3,Null Transaction
+496,2,Null Transaction
+496,1,Null Transaction
+501,4,Null Transaction
+501,3,Null Transaction
+501,2,Null Transaction
+501,1,Null Transaction
+499,4,Buy
+499,3,Null Transaction
+499,2,Null Transaction
+499,1,Null Transaction
+495,4,Null Transaction
+495,3,Null Transaction
+495,2,Null Transaction
+495,1,Buy
+496,4,Null Transaction
+496,3,Buy
+496,2,Null Transaction
+496,1,Null Transaction
+496,4,Null Transaction
+496,3,Buy
+496,2,Null Transaction
+496,1,Buy
+501,4,Null Transaction
+501,3,Null Transaction
+501,2,Null Transaction
+501,1,Null Transaction
+507,4,Null Transaction
+507,3,Buy
+507,2,Buy
+507,1,Null Transaction
+508,4,Null Transaction
+508,3,Null Transaction
+508,2,Null Transaction
+508,1,Null Transaction
+501,4,Null Transaction
+501,3,Buy
+501,2,Buy
+501,1,Buy
+503,4,Null Transaction
+503,3,Null Transaction
+503,2,Null Transaction
+503,1,Null Transaction
+503,4,Null Transaction
+503,3,Null Transaction
+503,2,Null Transaction
+503,1,Buy
+509,4,Null Transaction
+509,3,Null Transaction
+509,2,Null Transaction
+509,1,Null Transaction
+507,4,Null Transaction
+507,3,Null Transaction
+507,2,Null Transaction
+507,1,Null Transaction
+512,4,Null Transaction
+512,3,Null Transaction
+512,2,Null Transaction
+512,1,Buy
+512,4,Buy
+512,3,Buy
+512,2,Null Transaction
+512,1,Buy
+515,4,Null Transaction
+515,3,Buy
+515,2,Buy
+515,1,Buy
+516,4,Null Transaction
+516,3,Null Transaction
+516,2,Buy
+516,1,Buy
+509,4,Null Transaction
+509,3,Null Transaction
+509,2,Buy
+509,1,Null Transaction
+516,4,Null Transaction
+516,3,Buy
+516,2,Null Transaction
+516,1,Null Transaction
+514,4,Null Transaction
+514,3,Null Transaction
+514,2,Buy
+514,1,Null Transaction
+512,4,Null Transaction
+512,3,Null Transaction
+512,2,Null Transaction
+512,1,Null Transaction
+514,4,Null Transaction
+514,3,Null Transaction
+514,2,Null Transaction
+514,1,Null Transaction
+523,4,Null Transaction
+523,3,Null Transaction
+523,2,Null Transaction
+523,1,Null Transaction
+524,4,Null Transaction
+524,3,Null Transaction
+524,2,Null Transaction
+524,1,Buy
+525,4,Null Transaction
+525,3,Null Transaction
+525,2,Buy
+525,1,Null Transaction
+517,4,Null Transaction
+517,3,Null Transaction
+517,2,Null Transaction
+517,1,Buy
+522,4,Buy
+522,3,Null Transaction
+522,2,Buy
+522,1,Null Transaction
+523,4,Null Transaction
+523,3,Null Transaction
+523,2,Buy
+523,1,Buy
+529,4,Null Transaction
+529,3,Null Transaction
+529,2,Null Transaction
+529,1,Buy
+525,4,Buy
+525,3,Buy
+525,2,Null Transaction
+525,1,Null Transaction
+525,4,Null Transaction
+525,3,Null Transaction
+525,2,Null Transaction
+525,1,Null Transaction
+527,4,Null Transaction
+527,3,Null Transaction
+527,2,Buy
+527,1,Buy
+532,4,Null Transaction
+532,3,Null Transaction
+532,2,Null Transaction
+532,1,Null Transaction
+529,4,Null Transaction
+529,3,Null Transaction
+529,2,Null Transaction
+529,1,Null Transaction
+531,4,Null Transaction
+531,3,Null Transaction
+531,2,Buy
+531,1,Buy
+527,4,Null Transaction
+527,3,Buy
+527,2,Null Transaction
+527,1,Buy
+537,4,Null Transaction
+537,3,Null Transaction
+537,2,Null Transaction
+537,1,Null Transaction
+530,4,Null Transaction
+530,3,Null Transaction
+530,2,Buy
+530,1,Null Transaction
+532,4,Null Transaction
+532,3,Null Transaction
+532,2,Null Transaction
+532,1,Buy
+540,4,Buy
+540,3,Buy
+540,2,Null Transaction
+540,1,Buy
+532,4,Buy
+532,3,Null Transaction
+532,2,Null Transaction
+532,1,Null Transaction
+534,4,Buy
+534,3,Null Transaction
+534,2,Null Transaction
+534,1,Null Transaction
+542,4,Null Transaction
+542,3,Null Transaction
+542,2,Null Transaction
+542,1,Buy
+537,4,Null Transaction
+537,3,Null Transaction
+537,2,Null Transaction
+537,1,Null Transaction
+536,4,Null Transaction
+536,3,Null Transaction
+536,2,Buy
+536,1,Null Transaction
+544,4,Null Transaction
+544,3,Null Transaction
+544,2,Buy
+544,1,Null Transaction
+539,4,Buy
+539,3,Buy
+539,2,Null Transaction
+539,1,Buy
+547,4,Buy
+547,3,Null Transaction
+547,2,Null Transaction
+547,1,Null Transaction
+541,4,Null Transaction
+541,3,Null Transaction
+541,2,Null Transaction
+541,1,Null Transaction
+547,4,Null Transaction
+547,3,Null Transaction
+547,2,Null Transaction
+547,1,Null Transaction
+545,4,Null Transaction
+545,3,Null Transaction
+545,2,Buy
+545,1,Null Transaction
+549,4,Buy
+549,3,Buy
+549,2,Null Transaction
+549,1,Buy
+548,4,Null Transaction
+548,3,Buy
+548,2,Buy
+548,1,Null Transaction
+545,4,Null Transaction
+545,3,Null Transaction
+545,2,Null Transaction
+545,1,Buy
+548,4,Buy
+548,3,Null Transaction
+548,2,Buy
+548,1,Null Transaction
+547,4,Null Transaction
+547,3,Null Transaction
+547,2,Buy
+547,1,Buy
+556,4,Null Transaction
+556,3,Null Transaction
+556,2,Null Transaction
+556,1,Null Transaction
+552,4,Null Transaction
+552,3,Null Transaction
+552,2,Null Transaction
+552,1,Null Transaction
+551,4,Null Transaction
+551,3,Buy
+551,2,Null Transaction
+551,1,Null Transaction
+556,4,Buy
+556,3,Null Transaction
+556,2,Null Transaction
+556,1,Null Transaction
+558,4,Buy
+558,3,Null Transaction
+558,2,Null Transaction
+558,1,Buy
+554,4,Null Transaction
+554,3,Null Transaction
+554,2,Buy
+554,1,Null Transaction
+558,4,Null Transaction
+558,3,Null Transaction
+558,2,Null Transaction
+558,1,Null Transaction
+559,4,Null Transaction
+559,3,Null Transaction
+559,2,Null Transaction
+559,1,Buy
+556,4,Null Transaction
+556,3,Null Transaction
+556,2,Null Transaction
+556,1,Null Transaction
+557,4,Buy
+557,3,Null Transaction
+557,2,Null Transaction
+557,1,Null Transaction
+565,4,Null Transaction
+565,3,Null Transaction
+565,2,Null Transaction
+565,1,Null Transaction
+559,4,Buy
+559,3,Null Transaction
+559,2,Null Transaction
+559,1,Buy
+562,4,Null Transaction
+562,3,Buy
+562,2,Buy
+562,1,Null Transaction
+564,4,Null Transaction
+564,3,Null Transaction
+564,2,Null Transaction
+564,1,Null Transaction
+566,4,Null Transaction
+566,3,Buy
+566,2,Buy
+566,1,Null Transaction
+563,4,Null Transaction
+563,3,Null Transaction
+563,2,Null Transaction
+563,1,Null Transaction
+566,4,Null Transaction
+566,3,Null Transaction
+566,2,Null Transaction
+566,1,Buy
+572,4,Buy
+572,3,Null Transaction
+572,2,Buy
+572,1,Buy
+567,4,Null Transaction
+567,3,Null Transaction
+567,2,Null Transaction
+567,1,Null Transaction
+576,4,Null Transaction
+576,3,Buy
+576,2,Null Transaction
+576,1,Buy
+575,4,Null Transaction
+575,3,Buy
+575,2,Null Transaction
+575,1,Null Transaction
+573,4,Buy
+573,3,Null Transaction
+573,2,Null Transaction
+573,1,Null Transaction
+578,4,Null Transaction
+578,3,Buy
+578,2,Null Transaction
+578,1,Null Transaction
+571,4,Null Transaction
+571,3,Null Transaction
+571,2,Null Transaction
+571,1,Null Transaction
+580,4,Buy
+580,3,Buy
+580,2,Buy
+580,1,Null Transaction
+579,4,Null Transaction
+579,3,Buy
+579,2,Null Transaction
+579,1,Null Transaction
+580,4,Null Transaction
+580,3,Null Transaction
+580,2,Null Transaction
+580,1,Null Transaction
+575,4,Null Transaction
+575,3,Null Transaction
+575,2,Null Transaction
+575,1,Null Transaction
+581,4,Null Transaction
+581,3,Null Transaction
+581,2,Null Transaction
+581,1,Null Transaction
+581,4,Buy
+581,3,Null Transaction
+581,2,Null Transaction
+581,1,Null Transaction
+583,4,Null Transaction
+583,3,Null Transaction
+583,2,Null Transaction
+583,1,Null Transaction
+582,4,Null Transaction
+582,3,Null Transaction
+582,2,Null Transaction
+582,1,Buy
+585,4,Null Transaction
+585,3,Null Transaction
+585,2,Null Transaction
+585,1,Null Transaction
+590,4,Null Transaction
+590,3,Buy
+590,2,Buy
+590,1,Buy
+588,4,Null Transaction
+588,3,Null Transaction
+588,2,Null Transaction
+588,1,Null Transaction
+589,4,Null Transaction
+589,3,Null Transaction
+589,2,Null Transaction
+589,1,Null Transaction
+593,4,Null Transaction
+593,3,Buy
+593,2,Null Transaction
+593,1,Null Transaction
+590,4,Buy
+590,3,Buy
+590,2,Null Transaction
+590,1,Null Transaction
+593,4,Null Transaction
+593,3,Null Transaction
+593,2,Buy
+593,1,Null Transaction
+593,4,Null Transaction
+593,3,Null Transaction
+593,2,Buy
+593,1,Null Transaction
+595,4,Null Transaction
+595,3,Null Transaction
+595,2,Null Transaction
+595,1,Null Transaction
+589,4,Buy
+589,3,Null Transaction
+589,2,Buy
+589,1,Buy
+594,4,Buy
+594,3,Null Transaction
+594,2,Null Transaction
+594,1,Null Transaction
+594,4,Null Transaction
+594,3,Null Transaction
+594,2,Buy
+594,1,Null Transaction
+594,4,Null Transaction
+594,3,Null Transaction
+594,2,Null Transaction
+594,1,Null Transaction
+602,4,Null Transaction
+602,3,Buy
+602,2,Null Transaction
+602,1,Null Transaction
+598,4,Null Transaction
+598,3,Null Transaction
+598,2,Null Transaction
+598,1,Null Transaction
+596,4,Buy
+596,3,Null Transaction
+596,2,Null Transaction
+596,1,Buy
+598,4,Null Transaction
+598,3,Null Transaction
+598,2,Buy
+598,1,Buy
+597,4,Buy
+597,3,Buy
+597,2,Null Transaction
+597,1,Buy
+603,4,Null Transaction
+603,3,Null Transaction
+603,2,Null Transaction
+603,1,Buy
+605,4,Null Transaction
+605,3,Null Transaction
+605,2,Null Transaction
+605,1,Null Transaction
+605,4,Null Transaction
+605,3,Buy
+605,2,Buy
+605,1,Null Transaction
+601,4,Null Transaction
+601,3,Null Transaction
+601,2,Null Transaction
+601,1,Null Transaction
+606,4,Null Transaction
+606,3,Null Transaction
+606,2,Null Transaction
+606,1,Null Transaction
+607,4,Null Transaction
+607,3,Null Transaction
+607,2,Buy
+607,1,Null Transaction
+605,4,Null Transaction
+605,3,Null Transaction
+605,2,Null Transaction
+605,1,Null Transaction
+606,4,Buy
+606,3,Null Transaction
+606,2,Null Transaction
+606,1,Buy
+611,4,Null Transaction
+611,3,Null Transaction
+611,2,Null Transaction
+611,1,Null Transaction
+614,4,Buy
+614,3,Buy
+614,2,Null Transaction
+614,1,Null Transaction
+611,4,Null Transaction
+611,3,Null Transaction
+611,2,Null Transaction
+611,1,Buy
+618,4,Null Transaction
+618,3,Buy
+618,2,Null Transaction
+618,1,Buy
+611,4,Null Transaction
+611,3,Buy
+611,2,Null Transaction
+611,1,Null Transaction
+615,4,Buy
+615,3,Null Transaction
+615,2,Null Transaction
+615,1,Null Transaction
+616,4,Null Transaction
+616,3,Null Transaction
+616,2,Null Transaction
+616,1,Buy
+615,4,Buy
+615,3,Buy
+615,2,Null Transaction
+615,1,Null Transaction
+616,4,Null Transaction
+616,3,Buy
+616,2,Null Transaction
+616,1,Null Transaction
+617,4,Buy
+617,3,Null Transaction
+617,2,Null Transaction
+617,1,Null Transaction
+625,4,Null Transaction
+625,3,Null Transaction
+625,2,Null Transaction
+625,1,Buy
+617,4,Null Transaction
+617,3,Buy
+617,2,Null Transaction
+617,1,Buy
+625,4,Null Transaction
+625,3,Null Transaction
+625,2,Null Transaction
+625,1,Null Transaction
+626,4,Null Transaction
+626,3,Buy
+626,2,Buy
+626,1,Null Transaction
+629,4,Buy
+629,3,Buy
+629,2,Null Transaction
+629,1,Null Transaction
+624,4,Null Transaction
+624,3,Null Transaction
+624,2,Buy
+624,1,Null Transaction
+629,4,Null Transaction
+629,3,Null Transaction
+629,2,Null Transaction
+629,1,Null Transaction
+628,4,Null Transaction
+628,3,Null Transaction
+628,2,Buy
+628,1,Null Transaction
+632,4,Null Transaction
+632,3,Null Transaction
+632,2,Null Transaction
+632,1,Null Transaction
+631,4,Null Transaction
+631,3,Null Transaction
+631,2,Null Transaction
+631,1,Null Transaction
+630,4,Null Transaction
+630,3,Null Transaction
+630,2,Null Transaction
+630,1,Buy
+636,4,Null Transaction
+636,3,Null Transaction
+636,2,Buy
+636,1,Null Transaction
+630,4,Null Transaction
+630,3,Null Transaction
+630,2,Buy
+630,1,Null Transaction
+635,4,Buy
+635,3,Null Transaction
+635,2,Null Transaction
+635,1,Buy
+633,4,Null Transaction
+633,3,Null Transaction
+633,2,Null Transaction
+633,1,Buy
+639,4,Null Transaction
+639,3,Null Transaction
+639,2,Null Transaction
+639,1,Null Transaction
+633,4,Null Transaction
+633,3,Buy
+633,2,Null Transaction
+633,1,Buy
+636,4,Null Transaction
+636,3,Null Transaction
+636,2,Buy
+636,1,Null Transaction
+636,4,Null Transaction
+636,3,Buy
+636,2,Null Transaction
+636,1,Null Transaction
+643,4,Null Transaction
+643,3,Null Transaction
+643,2,Null Transaction
+643,1,Buy
+642,4,Null Transaction
+642,3,Null Transaction
+642,2,Null Transaction
+642,1,Null Transaction
+640,4,Buy
+640,3,Null Transaction
+640,2,Null Transaction
+640,1,Null Transaction
+638,4,Null Transaction
+638,3,Buy
+638,2,Null Transaction
+638,1,Buy
+645,4,Null Transaction
+645,3,Null Transaction
+645,2,Buy
+645,1,Buy
+647,4,Null Transaction
+647,3,Null Transaction
+647,2,Null Transaction
+647,1,Null Transaction
+649,4,Buy
+649,3,Buy
+649,2,Buy
+649,1,Null Transaction
+647,4,Null Transaction
+647,3,Null Transaction
+647,2,Null Transaction
+647,1,Null Transaction
+650,4,Null Transaction
+650,3,Null Transaction
+650,2,Null Transaction
+650,1,Null Transaction
+653,4,Null Transaction
+653,3,Null Transaction
+653,2,Null Transaction
+653,1,Buy
+647,4,Null Transaction
+647,3,Null Transaction
+647,2,Null Transaction
+647,1,Null Transaction
+655,4,Buy
+655,3,Null Transaction
+655,2,Null Transaction
+655,1,Null Transaction
+656,4,Buy
+656,3,Null Transaction
+656,2,Null Transaction
+656,1,Null Transaction
+648,4,Buy
+648,3,Buy
+648,2,Buy
+648,1,Null Transaction
+652,4,Null Transaction
+652,3,Buy
+652,2,Buy
+652,1,Null Transaction
+658,4,Null Transaction
+658,3,Null Transaction
+658,2,Null Transaction
+658,1,Buy
+658,4,Null Transaction
+658,3,Null Transaction
+658,2,Null Transaction
+658,1,Null Transaction
+654,4,Null Transaction
+654,3,Null Transaction
+654,2,Null Transaction
+654,1,Buy
+653,4,Buy
+653,3,Buy
+653,2,Null Transaction
+653,1,Buy
+654,4,Null Transaction
+654,3,Buy
+654,2,Null Transaction
+654,1,Buy
+659,4,Buy
+659,3,Null Transaction
+659,2,Buy
+659,1,Buy
+661,4,Buy
+661,3,Null Transaction
+661,2,Buy
+661,1,Null Transaction
+664,4,Null Transaction
+664,3,Null Transaction
+664,2,Null Transaction
+664,1,Null Transaction
+664,4,Null Transaction
+664,3,Null Transaction
+664,2,Null Transaction
+664,1,Null Transaction
+660,4,Null Transaction
+660,3,Buy
+660,2,Null Transaction
+660,1,Null Transaction
+668,4,Buy
+668,3,Null Transaction
+668,2,Null Transaction
+668,1,Null Transaction
+669,4,Null Transaction
+669,3,Null Transaction
+669,2,Null Transaction
+669,1,Null Transaction
+671,4,Buy
+671,3,Null Transaction
+671,2,Null Transaction
+671,1,Buy
+665,4,Buy
+665,3,Buy
+665,2,Buy
+665,1,Null Transaction
+671,4,Buy
+671,3,Null Transaction
+671,2,Buy
+671,1,Null Transaction
+669,4,Null Transaction
+669,3,Null Transaction
+669,2,Buy
+669,1,Buy
+668,4,Null Transaction
+668,3,Buy
+668,2,Null Transaction
+668,1,Null Transaction
+668,4,Null Transaction
+668,3,Buy
+668,2,Null Transaction
+668,1,Null Transaction
+668,4,Buy
+668,3,Null Transaction
+668,2,Null Transaction
+668,1,Null Transaction
+678,4,Buy
+678,3,Null Transaction
+678,2,Buy
+678,1,Null Transaction
+676,4,Null Transaction
+676,3,Null Transaction
+676,2,Buy
+676,1,Null Transaction
+679,4,Buy
+679,3,Null Transaction
+679,2,Buy
+679,1,Buy
+681,4,Buy
+681,3,Null Transaction
+681,2,Null Transaction
+681,1,Buy
+680,4,Null Transaction
+680,3,Buy
+680,2,Null Transaction
+680,1,Null Transaction
+674,4,Buy
+674,3,Buy
+674,2,Null Transaction
+674,1,Null Transaction
+681,4,Buy
+681,3,Null Transaction
+681,2,Null Transaction
+681,1,Null Transaction
+682,4,Null Transaction
+682,3,Buy
+682,2,Null Transaction
+682,1,Null Transaction
+686,4,Buy
+686,3,Null Transaction
+686,2,Null Transaction
+686,1,Null Transaction
+678,4,Buy
+678,3,Null Transaction
+678,2,Null Transaction
+678,1,Null Transaction
+680,4,Null Transaction
+680,3,Buy
+680,2,Null Transaction
+680,1,Buy
+685,4,Null Transaction
+685,3,Buy
+685,2,Buy
+685,1,Null Transaction
+687,4,Null Transaction
+687,3,Null Transaction
+687,2,Null Transaction
+687,1,Null Transaction
+687,4,Null Transaction
+687,3,Buy
+687,2,Buy
+687,1,Null Transaction
+690,4,Buy
+690,3,Null Transaction
+690,2,Null Transaction
+690,1,Null Transaction
+688,4,Null Transaction
+688,3,Null Transaction
+688,2,Null Transaction
+688,1,Null Transaction
+691,4,Null Transaction
+691,3,Buy
+691,2,Null Transaction
+691,1,Null Transaction
+689,4,Null Transaction
+689,3,Null Transaction
+689,2,Null Transaction
+689,1,Null Transaction
+687,4,Buy
+687,3,Null Transaction
+687,2,Null Transaction
+687,1,Null Transaction
+697,4,Null Transaction
+697,3,Null Transaction
+697,2,Buy
+697,1,Null Transaction
+698,4,Null Transaction
+698,3,Null Transaction
+698,2,Null Transaction
+698,1,Null Transaction
+696,4,Null Transaction
+696,3,Null Transaction
+696,2,Null Transaction
+696,1,Null Transaction
+695,4,Null Transaction
+695,3,Null Transaction
+695,2,Null Transaction
+695,1,Null Transaction
+693,4,Null Transaction
+693,3,Null Transaction
+693,2,Null Transaction
+693,1,Null Transaction
+702,4,Null Transaction
+702,3,Null Transaction
+702,2,Null Transaction
+702,1,Null Transaction
+695,4,Null Transaction
+695,3,Buy
+695,2,Buy
+695,1,Null Transaction
+703,4,Buy
+703,3,Null Transaction
+703,2,Buy
+703,1,Null Transaction
+700,4,Buy
+700,3,Null Transaction
+700,2,Null Transaction
+700,1,Buy
+702,4,Buy
+702,3,Null Transaction
+702,2,Null Transaction
+702,1,Null Transaction
+700,4,Null Transaction
+700,3,Null Transaction
+700,2,Null Transaction
+700,1,Null Transaction
+701,4,Null Transaction
+701,3,Buy
+701,2,Null Transaction
+701,1,Null Transaction
+708,4,Null Transaction
+708,3,Null Transaction
+708,2,Buy
+708,1,Null Transaction
+703,4,Null Transaction
+703,3,Null Transaction
+703,2,Buy
+703,1,Null Transaction
+705,4,Null Transaction
+705,3,Null Transaction
+705,2,Buy
+705,1,Null Transaction
+710,4,Buy
+710,3,Null Transaction
+710,2,Buy
+710,1,Null Transaction
+707,4,Null Transaction
+707,3,Null Transaction
+707,2,Null Transaction
+707,1,Null Transaction
+710,4,Null Transaction
+710,3,Buy
+710,2,Null Transaction
+710,1,Buy
+713,4,Buy
+713,3,Null Transaction
+713,2,Null Transaction
+713,1,Buy
+715,4,Buy
+715,3,Null Transaction
+715,2,Null Transaction
+715,1,Null Transaction
+717,4,Null Transaction
+717,3,Null Transaction
+717,2,Buy
+717,1,Null Transaction
+709,4,Null Transaction
+709,3,Null Transaction
+709,2,Buy
+709,1,Buy
+718,4,Null Transaction
+718,3,Null Transaction
+718,2,Null Transaction
+718,1,Null Transaction
+714,4,Buy
+714,3,Null Transaction
+714,2,Null Transaction
+714,1,Null Transaction
+713,4,Null Transaction
+713,3,Null Transaction
+713,2,Null Transaction
+713,1,Buy
+716,4,Null Transaction
+716,3,Null Transaction
+716,2,Null Transaction
+716,1,Null Transaction
+719,4,Null Transaction
+719,3,Buy
+719,2,Buy
+719,1,Null Transaction
+724,4,Null Transaction
+724,3,Null Transaction
+724,2,Null Transaction
+724,1,Null Transaction
+720,4,Null Transaction
+720,3,Null Transaction
+720,2,Buy
+720,1,Null Transaction
+722,4,Null Transaction
+722,3,Buy
+722,2,Null Transaction
+722,1,Null Transaction
+723,4,Null Transaction
+723,3,Null Transaction
+723,2,Buy
+723,1,Null Transaction
+723,4,Null Transaction
+723,3,Null Transaction
+723,2,Buy
+723,1,Buy
+721,4,Null Transaction
+721,3,Null Transaction
+721,2,Null Transaction
+721,1,Null Transaction
+722,4,Null Transaction
+722,3,Null Transaction
+722,2,Null Transaction
+722,1,Null Transaction
+730,4,Null Transaction
+730,3,Buy
+730,2,Null Transaction
+730,1,Null Transaction
+724,4,Buy
+724,3,Null Transaction
+724,2,Buy
+724,1,Null Transaction
+726,4,Null Transaction
+726,3,Null Transaction
+726,2,Buy
+726,1,Null Transaction
+729,4,Null Transaction
+729,3,Null Transaction
+729,2,Null Transaction
+729,1,Null Transaction
+727,4,Null Transaction
+727,3,Null Transaction
+727,2,Null Transaction
+727,1,Null Transaction
+733,4,Buy
+733,3,Null Transaction
+733,2,Buy
+733,1,Null Transaction
+736,4,Buy
+736,3,Null Transaction
+736,2,Null Transaction
+736,1,Null Transaction
+733,4,Null Transaction
+733,3,Null Transaction
+733,2,Null Transaction
+733,1,Null Transaction
+733,4,Null Transaction
+733,3,Null Transaction
+733,2,Null Transaction
+733,1,Null Transaction
+735,4,Null Transaction
+735,3,Null Transaction
+735,2,Null Transaction
+735,1,Null Transaction
+735,4,Buy
+735,3,Null Transaction
+735,2,Null Transaction
+735,1,Null Transaction
+733,4,Null Transaction
+733,3,Null Transaction
+733,2,Buy
+733,1,Null Transaction
+742,4,Null Transaction
+742,3,Null Transaction
+742,2,Null Transaction
+742,1,Null Transaction
+739,4,Null Transaction
+739,3,Null Transaction
+739,2,Buy
+739,1,Null Transaction
+744,4,Null Transaction
+744,3,Null Transaction
+744,2,Null Transaction
+744,1,Null Transaction
+745,4,Null Transaction
+745,3,Null Transaction
+745,2,Null Transaction
+745,1,Null Transaction
+743,4,Null Transaction
+743,3,Null Transaction
+743,2,Null Transaction
+743,1,Null Transaction
+739,4,Null Transaction
+739,3,Null Transaction
+739,2,Null Transaction
+739,1,Null Transaction
+746,4,Buy
+746,3,Null Transaction
+746,2,Null Transaction
+746,1,Null Transaction
+748,4,Buy
+748,3,Null Transaction
+748,2,Buy
+748,1,Buy
+744,4,Null Transaction
+744,3,Buy
+744,2,Null Transaction
+744,1,Null Transaction
+751,4,Null Transaction
+751,3,Null Transaction
+751,2,Null Transaction
+751,1,Null Transaction
+752,4,Null Transaction
+752,3,Null Transaction
+752,2,Null Transaction
+752,1,Null Transaction
+754,4,Null Transaction
+754,3,Null Transaction
+754,2,Null Transaction
+754,1,Null Transaction
+748,4,Buy
+748,3,Null Transaction
+748,2,Buy
+748,1,Buy
+748,4,Null Transaction
+748,3,Buy
+748,2,Null Transaction
+748,1,Buy
+756,4,Null Transaction
+756,3,Null Transaction
+756,2,Null Transaction
+756,1,Buy
+757,4,Null Transaction
+757,3,Null Transaction
+757,2,Null Transaction
+757,1,Null Transaction
+752,4,Null Transaction
+752,3,Buy
+752,2,Null Transaction
+752,1,Null Transaction
+759,4,Null Transaction
+759,3,Null Transaction
+759,2,Null Transaction
+759,1,Null Transaction
+757,4,Null Transaction
+757,3,Null Transaction
+757,2,Buy
+757,1,Null Transaction
+755,4,Null Transaction
+755,3,Null Transaction
+755,2,Null Transaction
+755,1,Null Transaction
+754,4,Null Transaction
+754,3,Null Transaction
+754,2,Buy
+754,1,Buy
+764,4,Null Transaction
+764,3,Null Transaction
+764,2,Buy
+764,1,Null Transaction
+760,4,Null Transaction
+760,3,Null Transaction
+760,2,Null Transaction
+760,1,Buy
+765,4,Null Transaction
+765,3,Null Transaction
+765,2,Null Transaction
+765,1,Null Transaction
+764,4,Null Transaction
+764,3,Buy
+764,2,Null Transaction
+764,1,Null Transaction
+765,4,Buy
+765,3,Null Transaction
+765,2,Null Transaction
+765,1,Null Transaction
+760,4,Null Transaction
+760,3,Null Transaction
+760,2,Null Transaction
+760,1,Null Transaction
+769,4,Buy
+769,3,Null Transaction
+769,2,Null Transaction
+769,1,Buy
+771,4,Null Transaction
+771,3,Null Transaction
+771,2,Null Transaction
+771,1,Null Transaction
+772,4,Null Transaction
+772,3,Buy
+772,2,Null Transaction
+772,1,Null Transaction
+768,4,Null Transaction
+768,3,Null Transaction
+768,2,Null Transaction
+768,1,Null Transaction
+769,4,Buy
+769,3,Buy
+769,2,Null Transaction
+769,1,Null Transaction
+768,4,Null Transaction
+768,3,Null Transaction
+768,2,Null Transaction
+768,1,Null Transaction
+772,4,Null Transaction
+772,3,Null Transaction
+772,2,Null Transaction
+772,1,Null Transaction
+774,4,Null Transaction
+774,3,Null Transaction
+774,2,Null Transaction
+774,1,Buy
+772,4,Null Transaction
+772,3,Null Transaction
+772,2,Null Transaction
+772,1,Null Transaction
+775,4,Buy
+775,3,Buy
+775,2,Null Transaction
+775,1,Null Transaction
+771,4,Null Transaction
+771,3,Null Transaction
+771,2,Buy
+771,1,Null Transaction
+777,4,Null Transaction
+777,3,Buy
+777,2,Null Transaction
+777,1,Null Transaction
+775,4,Null Transaction
+775,3,Buy
+775,2,Null Transaction
+775,1,Null Transaction
+780,4,Null Transaction
+780,3,Buy
+780,2,Null Transaction
+780,1,Null Transaction
+781,4,Null Transaction
+781,3,Buy
+781,2,Null Transaction
+781,1,Null Transaction
+780,4,Buy
+780,3,Null Transaction
+780,2,Null Transaction
+780,1,Null Transaction
+785,4,Null Transaction
+785,3,Null Transaction
+785,2,Null Transaction
+785,1,Null Transaction
+786,4,Null Transaction
+786,3,Null Transaction
+786,2,Buy
+786,1,Buy
+781,4,Null Transaction
+781,3,Null Transaction
+781,2,Null Transaction
+781,1,Null Transaction
+785,4,Buy
+785,3,Null Transaction
+785,2,Null Transaction
+785,1,Null Transaction
+787,4,Null Transaction
+787,3,Null Transaction
+787,2,Null Transaction
+787,1,Null Transaction
+784,4,Null Transaction
+784,3,Null Transaction
+784,2,Null Transaction
+784,1,Buy
+785,4,Null Transaction
+785,3,Buy
+785,2,Buy
+785,1,Null Transaction
+793,4,Buy
+793,3,Buy
+793,2,Null Transaction
+793,1,Null Transaction
+794,4,Null Transaction
+794,3,Buy
+794,2,Buy
+794,1,Null Transaction
+789,4,Null Transaction
+789,3,Null Transaction
+789,2,Buy
+789,1,Null Transaction
+795,4,Null Transaction
+795,3,Null Transaction
+795,2,Null Transaction
+795,1,Null Transaction
+791,4,Null Transaction
+791,3,Null Transaction
+791,2,Null Transaction
+791,1,Buy
+796,4,Buy
+796,3,Null Transaction
+796,2,Buy
+796,1,Buy
+792,4,Buy
+792,3,Null Transaction
+792,2,Null Transaction
+792,1,Null Transaction
+797,4,Buy
+797,3,Buy
+797,2,Null Transaction
+797,1,Buy
+800,4,Null Transaction
+800,3,Null Transaction
+800,2,Null Transaction
+800,1,Null Transaction
+797,4,Buy
+797,3,Null Transaction
+797,2,Buy
+797,1,Null Transaction
+801,4,Null Transaction
+801,3,Null Transaction
+801,2,Null Transaction
+801,1,Null Transaction
+804,4,Null Transaction
+804,3,Buy
+804,2,Null Transaction
+804,1,Null Transaction
+796,4,Null Transaction
+796,3,Null Transaction
+796,2,Null Transaction
+796,1,Null Transaction
+798,4,Buy
+798,3,Null Transaction
+798,2,Null Transaction
+798,1,Null Transaction
+804,4,Null Transaction
+804,3,Buy
+804,2,Buy
+804,1,Null Transaction
+807,4,Null Transaction
+807,3,Null Transaction
+807,2,Null Transaction
+807,1,Null Transaction
+801,4,Null Transaction
+801,3,Null Transaction
+801,2,Buy
+801,1,Buy
+802,4,Buy
+802,3,Null Transaction
+802,2,Null Transaction
+802,1,Buy
+808,4,Null Transaction
+808,3,Null Transaction
+808,2,Null Transaction
+808,1,Buy
+805,4,Null Transaction
+805,3,Buy
+805,2,Null Transaction
+805,1,Null Transaction
+808,4,Null Transaction
+808,3,Null Transaction
+808,2,Null Transaction
+808,1,Null Transaction
+813,4,Null Transaction
+813,3,Buy
+813,2,Null Transaction
+813,1,Null Transaction
+810,4,Buy
+810,3,Buy
+810,2,Null Transaction
+810,1,Null Transaction
+809,4,Null Transaction
+809,3,Null Transaction
+809,2,Null Transaction
+809,1,Buy
+811,4,Null Transaction
+811,3,Null Transaction
+811,2,Null Transaction
+811,1,Buy
+815,4,Null Transaction
+815,3,Null Transaction
+815,2,Null Transaction
+815,1,Buy
+818,4,Null Transaction
+818,3,Null Transaction
+818,2,Buy
+818,1,Null Transaction
+812,4,Null Transaction
+812,3,Null Transaction
+812,2,Buy
+812,1,Buy
+820,4,Null Transaction
+820,3,Null Transaction
+820,2,Buy
+820,1,Null Transaction
+819,4,Buy
+819,3,Buy
+819,2,Null Transaction
+819,1,Null Transaction
+821,4,Buy
+821,3,Null Transaction
+821,2,Buy
+821,1,Null Transaction
+819,4,Null Transaction
+819,3,Null Transaction
+819,2,Buy
+819,1,Null Transaction
+819,4,Null Transaction
+819,3,Null Transaction
+819,2,Null Transaction
+819,1,Null Transaction
+825,4,Null Transaction
+825,3,Null Transaction
+825,2,Buy
+825,1,Null Transaction
+819,4,Buy
+819,3,Null Transaction
+819,2,Buy
+819,1,Buy
+821,4,Null Transaction
+821,3,Null Transaction
+821,2,Null Transaction
+821,1,Null Transaction
+822,4,Buy
+822,3,Null Transaction
+822,2,Null Transaction
+822,1,Buy
+828,4,Null Transaction
+828,3,Buy
+828,2,Null Transaction
+828,1,Buy
+828,4,Null Transaction
+828,3,Null Transaction
+828,2,Null Transaction
+828,1,Null Transaction
+832,4,Buy
+832,3,Null Transaction
+832,2,Null Transaction
+832,1,Null Transaction
+830,4,Null Transaction
+830,3,Null Transaction
+830,2,Null Transaction
+830,1,Null Transaction
+831,4,Buy
+831,3,Null Transaction
+831,2,Null Transaction
+831,1,Null Transaction
+829,4,Buy
+829,3,Null Transaction
+829,2,Null Transaction
+829,1,Null Transaction
+833,4,Null Transaction
+833,3,Null Transaction
+833,2,Buy
+833,1,Null Transaction
+832,4,Buy
+832,3,Null Transaction
+832,2,Null Transaction
+832,1,Null Transaction
+831,4,Null Transaction
+831,3,Null Transaction
+831,2,Buy
+831,1,Buy
+832,4,Buy
+832,3,Null Transaction
+832,2,Null Transaction
+832,1,Null Transaction
+832,4,Buy
+832,3,Null Transaction
+832,2,Null Transaction
+832,1,Null Transaction
+839,4,Null Transaction
+839,3,Null Transaction
+839,2,Buy
+839,1,Null Transaction
+842,4,Null Transaction
+842,3,Null Transaction
+842,2,Null Transaction
+842,1,Null Transaction
+836,4,Null Transaction
+836,3,Null Transaction
+836,2,Null Transaction
+836,1,Null Transaction
+838,4,Buy
+838,3,Null Transaction
+838,2,Buy
+838,1,Buy
+843,4,Null Transaction
+843,3,Null Transaction
+843,2,Null Transaction
+843,1,Null Transaction
+844,4,Null Transaction
+844,3,Buy
+844,2,Null Transaction
+844,1,Null Transaction
+846,4,Null Transaction
+846,3,Null Transaction
+846,2,Buy
+846,1,Null Transaction
+840,4,Null Transaction
+840,3,Buy
+840,2,Buy
+840,1,Null Transaction
+844,4,Null Transaction
+844,3,Null Transaction
+844,2,Buy
+844,1,Null Transaction
+845,4,Buy
+845,3,Null Transaction
+845,2,Buy
+845,1,Null Transaction
+849,4,Buy
+849,3,Null Transaction
+849,2,Null Transaction
+849,1,Null Transaction
+849,4,Null Transaction
+849,3,Null Transaction
+849,2,Null Transaction
+849,1,Null Transaction
+847,4,Null Transaction
+847,3,Null Transaction
+847,2,Buy
+847,1,Null Transaction
+854,4,Null Transaction
+854,3,Buy
+854,2,Buy
+854,1,Buy
+850,4,Null Transaction
+850,3,Null Transaction
+850,2,Null Transaction
+850,1,Null Transaction
+849,4,Null Transaction
+849,3,Null Transaction
+849,2,Buy
+849,1,Null Transaction
+851,4,Null Transaction
+851,3,Null Transaction
+851,2,Null Transaction
+851,1,Null Transaction
+853,4,Null Transaction
+853,3,Buy
+853,2,Buy
+853,1,Null Transaction
+859,4,Null Transaction
+859,3,Null Transaction
+859,2,Buy
+859,1,Null Transaction
+854,4,Null Transaction
+854,3,Null Transaction
+854,2,Buy
+854,1,Null Transaction
+855,4,Null Transaction
+855,3,Null Transaction
+855,2,Buy
+855,1,Buy
+856,4,Null Transaction
+856,3,Null Transaction
+856,2,Null Transaction
+856,1,Null Transaction
+854,4,Buy
+854,3,Buy
+854,2,Null Transaction
+854,1,Null Transaction
+858,4,Null Transaction
+858,3,Null Transaction
+858,2,Buy
+858,1,Null Transaction
+861,4,Buy
+861,3,Null Transaction
+861,2,Null Transaction
+861,1,Null Transaction
+864,4,Null Transaction
+864,3,Null Transaction
+864,2,Null Transaction
+864,1,Null Transaction
+861,4,Buy
+861,3,Null Transaction
+861,2,Null Transaction
+861,1,Null Transaction
+861,4,Null Transaction
+861,3,Null Transaction
+861,2,Buy
+861,1,Null Transaction
+866,4,Null Transaction
+866,3,Null Transaction
+866,2,Null Transaction
+866,1,Null Transaction
+869,4,Null Transaction
+869,3,Null Transaction
+869,2,Null Transaction
+869,1,Null Transaction
+862,4,Buy
+862,3,Buy
+862,2,Null Transaction
+862,1,Null Transaction
+869,4,Buy
+869,3,Null Transaction
+869,2,Null Transaction
+869,1,Null Transaction
+868,4,Buy
+868,3,Null Transaction
+868,2,Null Transaction
+868,1,Null Transaction
+874,4,Null Transaction
+874,3,Null Transaction
+874,2,Buy
+874,1,Null Transaction
+867,4,Null Transaction
+867,3,Buy
+867,2,Null Transaction
+867,1,Null Transaction
+871,4,Null Transaction
+871,3,Buy
+871,2,Null Transaction
+871,1,Null Transaction
+870,4,Null Transaction
+870,3,Null Transaction
+870,2,Null Transaction
+870,1,Null Transaction
+871,4,Null Transaction
+871,3,Buy
+871,2,Null Transaction
+871,1,Null Transaction
+876,4,Null Transaction
+876,3,Null Transaction
+876,2,Null Transaction
+876,1,Buy
+879,4,Null Transaction
+879,3,Null Transaction
+879,2,Null Transaction
+879,1,Null Transaction
+881,4,Null Transaction
+881,3,Null Transaction
+881,2,Null Transaction
+881,1,Buy
+874,4,Null Transaction
+874,3,Buy
+874,2,Buy
+874,1,Null Transaction
+882,4,Null Transaction
+882,3,Null Transaction
+882,2,Null Transaction
+882,1,Null Transaction
+877,4,Buy
+877,3,Null Transaction
+877,2,Buy
+877,1,Buy
+880,4,Null Transaction
+880,3,Null Transaction
+880,2,Null Transaction
+880,1,Null Transaction
+881,4,Null Transaction
+881,3,Buy
+881,2,Null Transaction
+881,1,Null Transaction
+880,4,Buy
+880,3,Null Transaction
+880,2,Null Transaction
+880,1,Null Transaction
+884,4,Null Transaction
+884,3,Null Transaction
+884,2,Null Transaction
+884,1,Null Transaction
+889,4,Null Transaction
+889,3,Buy
+889,2,Null Transaction
+889,1,Buy
+884,4,Null Transaction
+884,3,Buy
+884,2,Null Transaction
+884,1,Null Transaction
+887,4,Null Transaction
+887,3,Null Transaction
+887,2,Null Transaction
+887,1,Null Transaction
+888,4,Null Transaction
+888,3,Null Transaction
+888,2,Null Transaction
+888,1,Buy
+890,4,Null Transaction
+890,3,Buy
+890,2,Buy
+890,1,Null Transaction
+890,4,Null Transaction
+890,3,Null Transaction
+890,2,Null Transaction
+890,1,Buy
+894,4,Null Transaction
+894,3,Null Transaction
+894,2,Buy
+894,1,Null Transaction
+887,4,Null Transaction
+887,3,Null Transaction
+887,2,Null Transaction
+887,1,Null Transaction
+888,4,Buy
+888,3,Null Transaction
+888,2,Null Transaction
+888,1,Buy
+892,4,Null Transaction
+892,3,Null Transaction
+892,2,Null Transaction
+892,1,Buy
+892,4,Buy
+892,3,Null Transaction
+892,2,Null Transaction
+892,1,Buy
+891,4,Null Transaction
+891,3,Null Transaction
+891,2,Buy
+891,1,Null Transaction
+892,4,Buy
+892,3,Null Transaction
+892,2,Buy
+892,1,Buy
+894,4,Null Transaction
+894,3,Null Transaction
+894,2,Null Transaction
+894,1,Null Transaction
+903,4,Null Transaction
+903,3,Null Transaction
+903,2,Buy
+903,1,Null Transaction
+899,4,Buy
+899,3,Null Transaction
+899,2,Null Transaction
+899,1,Null Transaction
+904,4,Null Transaction
+904,3,Null Transaction
+904,2,Buy
+904,1,Null Transaction
+901,4,Null Transaction
+901,3,Buy
+901,2,Buy
+901,1,Null Transaction
+907,4,Null Transaction
+907,3,Null Transaction
+907,2,Buy
+907,1,Buy
+907,4,Null Transaction
+907,3,Null Transaction
+907,2,Null Transaction
+907,1,Buy
+905,4,Null Transaction
+905,3,Null Transaction
+905,2,Null Transaction
+905,1,Null Transaction
+906,4,Null Transaction
+906,3,Null Transaction
+906,2,Null Transaction
+906,1,Null Transaction
+904,4,Null Transaction
+904,3,Buy
+904,2,Buy
+904,1,Null Transaction
+910,4,Null Transaction
+910,3,Null Transaction
+910,2,Null Transaction
+910,1,Null Transaction
+913,4,Null Transaction
+913,3,Null Transaction
+913,2,Null Transaction
+913,1,Null Transaction
+911,4,Null Transaction
+911,3,Null Transaction
+911,2,Null Transaction
+911,1,Null Transaction
+906,4,Null Transaction
+906,3,Null Transaction
+906,2,Null Transaction
+906,1,Buy
+913,4,Null Transaction
+913,3,Null Transaction
+913,2,Buy
+913,1,Null Transaction
+916,4,Null Transaction
+916,3,Null Transaction
+916,2,Buy
+916,1,Null Transaction
+909,4,Null Transaction
+909,3,Null Transaction
+909,2,Null Transaction
+909,1,Null Transaction
+913,4,Null Transaction
+913,3,Buy
+913,2,Null Transaction
+913,1,Null Transaction
+917,4,Null Transaction
+917,3,Null Transaction
+917,2,Null Transaction
+917,1,Buy
+912,4,Null Transaction
+912,3,Null Transaction
+912,2,Buy
+912,1,Null Transaction
+917,4,Null Transaction
+917,3,Null Transaction
+917,2,Null Transaction
+917,1,Null Transaction
+918,4,Null Transaction
+918,3,Null Transaction
+918,2,Null Transaction
+918,1,Null Transaction
+924,4,Buy
+924,3,Buy
+924,2,Null Transaction
+924,1,Null Transaction
+921,4,Null Transaction
+921,3,Null Transaction
+921,2,Null Transaction
+921,1,Null Transaction
+918,4,Buy
+918,3,Null Transaction
+918,2,Null Transaction
+918,1,Null Transaction
+923,4,Null Transaction
+923,3,Null Transaction
+923,2,Null Transaction
+923,1,Null Transaction
+921,4,Null Transaction
+921,3,Buy
+921,2,Buy
+921,1,Buy
+926,4,Buy
+926,3,Null Transaction
+926,2,Buy
+926,1,Null Transaction
+924,4,Null Transaction
+924,3,Null Transaction
+924,2,Null Transaction
+924,1,Buy
+928,4,Buy
+928,3,Null Transaction
+928,2,Null Transaction
+928,1,Buy
+932,4,Null Transaction
+932,3,Buy
+932,2,Buy
+932,1,Null Transaction
+926,4,Buy
+926,3,Null Transaction
+926,2,Null Transaction
+926,1,Null Transaction
+925,4,Null Transaction
+925,3,Null Transaction
+925,2,Null Transaction
+925,1,Null Transaction
+927,4,Buy
+927,3,Null Transaction
+927,2,Buy
+927,1,Null Transaction
+933,4,Null Transaction
+933,3,Null Transaction
+933,2,Null Transaction
+933,1,Null Transaction
+929,4,Buy
+929,3,Null Transaction
+929,2,Null Transaction
+929,1,Null Transaction
+930,4,Null Transaction
+930,3,Null Transaction
+930,2,Null Transaction
+930,1,Null Transaction
+939,4,Buy
+939,3,Null Transaction
+939,2,Null Transaction
+939,1,Buy
+937,4,Null Transaction
+937,3,Null Transaction
+937,2,Null Transaction
+937,1,Null Transaction
+936,4,Null Transaction
+936,3,Null Transaction
+936,2,Null Transaction
+936,1,Null Transaction
+940,4,Buy
+940,3,Null Transaction
+940,2,Null Transaction
+940,1,Null Transaction
+937,4,Null Transaction
+937,3,Null Transaction
+937,2,Buy
+937,1,Null Transaction
+940,4,Buy
+940,3,Buy
+940,2,Null Transaction
+940,1,Null Transaction
+945,4,Null Transaction
+945,3,Buy
+945,2,Buy
+945,1,Buy
+938,4,Null Transaction
+938,3,Null Transaction
+938,2,Null Transaction
+938,1,Null Transaction
+945,4,Null Transaction
+945,3,Null Transaction
+945,2,Buy
+945,1,Null Transaction
+944,4,Buy
+944,3,Null Transaction
+944,2,Null Transaction
+944,1,Null Transaction
+949,4,Buy
+949,3,Buy
+949,2,Null Transaction
+949,1,Null Transaction
+944,4,Buy
+944,3,Null Transaction
+944,2,Null Transaction
+944,1,Null Transaction
+948,4,Null Transaction
+948,3,Buy
+948,2,Null Transaction
+948,1,Null Transaction
+943,4,Null Transaction
+943,3,Buy
+943,2,Buy
+943,1,Buy
+949,4,Null Transaction
+949,3,Null Transaction
+949,2,Buy
+949,1,Null Transaction
+954,4,Null Transaction
+954,3,Null Transaction
+954,2,Null Transaction
+954,1,Buy
+951,4,Null Transaction
+951,3,Null Transaction
+951,2,Null Transaction
+951,1,Null Transaction
+955,4,Null Transaction
+955,3,Null Transaction
+955,2,Null Transaction
+955,1,Null Transaction
+957,4,Null Transaction
+957,3,Buy
+957,2,Buy
+957,1,Buy
+956,4,Null Transaction
+956,3,Null Transaction
+956,2,Null Transaction
+956,1,Null Transaction
+951,4,Null Transaction
+951,3,Null Transaction
+951,2,Null Transaction
+951,1,Null Transaction
+958,4,Null Transaction
+958,3,Null Transaction
+958,2,Buy
+958,1,Null Transaction
+958,4,Null Transaction
+958,3,Null Transaction
+958,2,Null Transaction
+958,1,Null Transaction
+959,4,Buy
+959,3,Null Transaction
+959,2,Null Transaction
+959,1,Null Transaction
+959,4,Null Transaction
+959,3,Buy
+959,2,Null Transaction
+959,1,Null Transaction
+960,4,Buy
+960,3,Null Transaction
+960,2,Null Transaction
+960,1,Buy
+964,4,Null Transaction
+964,3,Null Transaction
+964,2,Buy
+964,1,Buy
+958,4,Null Transaction
+958,3,Null Transaction
+958,2,Null Transaction
+958,1,Null Transaction
+964,4,Null Transaction
+964,3,Null Transaction
+964,2,Buy
+964,1,Null Transaction
+961,4,Null Transaction
+961,3,Null Transaction
+961,2,Null Transaction
+961,1,Null Transaction
+967,4,Null Transaction
+967,3,Null Transaction
+967,2,Null Transaction
+967,1,Null Transaction
+964,4,Null Transaction
+964,3,Buy
+964,2,Buy
+964,1,Null Transaction
+969,4,Null Transaction
+969,3,Null Transaction
+969,2,Null Transaction
+969,1,Null Transaction
+967,4,Buy
+967,3,Buy
+967,2,Null Transaction
+967,1,Null Transaction
+965,4,Null Transaction
+965,3,Buy
+965,2,Null Transaction
+965,1,Null Transaction
+971,4,Null Transaction
+971,3,Null Transaction
+971,2,Null Transaction
+971,1,Buy
+966,4,Null Transaction
+966,3,Null Transaction
+966,2,Null Transaction
+966,1,Null Transaction
+971,4,Null Transaction
+971,3,Null Transaction
+971,2,Null Transaction
+971,1,Buy
+976,4,Null Transaction
+976,3,Null Transaction
+976,2,Null Transaction
+976,1,Null Transaction
+975,4,Null Transaction
+975,3,Buy
+975,2,Buy
+975,1,Null Transaction
+979,4,Buy
+979,3,Null Transaction
+979,2,Null Transaction
+979,1,Null Transaction
+971,4,Null Transaction
+971,3,Null Transaction
+971,2,Null Transaction
+971,1,Null Transaction
+979,4,Buy
+979,3,Null Transaction
+979,2,Null Transaction
+979,1,Null Transaction
+982,4,Null Transaction
+982,3,Null Transaction
+982,2,Null Transaction
+982,1,Buy
+975,4,Null Transaction
+975,3,Null Transaction
+975,2,Null Transaction
+975,1,Null Transaction
+978,4,Null Transaction
+978,3,Null Transaction
+978,2,Null Transaction
+978,1,Null Transaction
+985,4,Null Transaction
+985,3,Null Transaction
+985,2,Null Transaction
+985,1,Null Transaction
+986,4,Buy
+986,3,Buy
+986,2,Null Transaction
+986,1,Null Transaction
+978,4,Null Transaction
+978,3,Null Transaction
+978,2,Null Transaction
+978,1,Buy
+986,4,Null Transaction
+986,3,Null Transaction
+986,2,Null Transaction
+986,1,Null Transaction
+988,4,Null Transaction
+988,3,Buy
+988,2,Null Transaction
+988,1,Null Transaction
+990,4,Null Transaction
+990,3,Null Transaction
+990,2,Null Transaction
+990,1,Buy
+988,4,Null Transaction
+988,3,Null Transaction
+988,2,Null Transaction
+988,1,Buy
+988,4,Null Transaction
+988,3,Buy
+988,2,Buy
+988,1,Null Transaction
+993,4,Buy
+993,3,Null Transaction
+993,2,Buy
+993,1,Null Transaction
+989,4,Buy
+989,3,Null Transaction
+989,2,Null Transaction
+989,1,Null Transaction
+992,4,Null Transaction
+992,3,Null Transaction
+992,2,Buy
+992,1,Null Transaction
+989,4,Buy
+989,3,Null Transaction
+989,2,Null Transaction
+989,1,Null Transaction
+989,4,Null Transaction
+989,3,Null Transaction
+989,2,Null Transaction
+989,1,Null Transaction
+995,4,Null Transaction
+995,3,Null Transaction
+995,2,Null Transaction
+995,1,Null Transaction
+995,4,Null Transaction
+995,3,Null Transaction
+995,2,Null Transaction
+995,1,Null Transaction
+997,4,Buy
+997,3,Null Transaction
+997,2,Null Transaction
+997,1,Null Transaction
+994,4,Null Transaction
+994,3,Buy
+994,2,Null Transaction
+994,1,Null Transaction
+994,4,Null Transaction
+994,3,Buy
+994,2,Buy
+994,1,Buy
+994,4,Buy
+994,3,Buy
+994,2,Null Transaction
+994,1,Null Transaction
+995,4,Null Transaction
+995,3,Buy
+995,2,Null Transaction
+995,1,Buy
+998,4,Null Transaction
+998,3,Null Transaction
+998,2,Null Transaction
+998,1,Buy
+997,4,Null Transaction
+997,3,Null Transaction
+997,2,Null Transaction
+997,1,Null Transaction
+1000,4,Null Transaction
+1000,3,Null Transaction
+1000,2,Buy
+1000,1,Null Transaction
+1004,4,Null Transaction
+1004,3,Null Transaction
+1004,2,Null Transaction
+1004,1,Null Transaction
+1004,4,Buy
+1004,3,Null Transaction
+1004,2,Null Transaction
+1004,1,Null Transaction
+1001,4,Null Transaction
+1001,3,Null Transaction
+1001,2,Null Transaction
+1001,1,Null Transaction
+1007,4,Null Transaction
+1007,3,Null Transaction
+1007,2,Null Transaction
+1007,1,Null Transaction
+1004,4,Null Transaction
+1004,3,Null Transaction
+1004,2,Null Transaction
+1004,1,Null Transaction
+1006,4,Null Transaction
+1006,3,Null Transaction
+1006,2,Null Transaction
+1006,1,Null Transaction
+1008,4,Null Transaction
+1008,3,Null Transaction
+1008,2,Null Transaction
+1008,1,Null Transaction
+1012,4,Null Transaction
+1012,3,Null Transaction
+1012,2,Buy
+1012,1,Null Transaction
+1014,4,Null Transaction
+1014,3,Buy
+1014,2,Null Transaction
+1014,1,Null Transaction
+1016,4,Null Transaction
+1016,3,Null Transaction
+1016,2,Buy
+1016,1,Null Transaction
+1011,4,Null Transaction
+1011,3,Null Transaction
+1011,2,Null Transaction
+1011,1,Null Transaction
+1018,4,Null Transaction
+1018,3,Buy
+1018,2,Null Transaction
+1018,1,Null Transaction
+1019,4,Buy
+1019,3,Null Transaction
+1019,2,Null Transaction
+1019,1,Null Transaction
+1015,4,Null Transaction
+1015,3,Null Transaction
+1015,2,Null Transaction
+1015,1,Null Transaction
+1019,4,Null Transaction
+1019,3,Null Transaction
+1019,2,Buy
+1019,1,Null Transaction
+1015,4,Buy
+1015,3,Buy
+1015,2,Null Transaction
+1015,1,Buy
+1023,4,Null Transaction
+1023,3,Null Transaction
+1023,2,Null Transaction
+1023,1,Null Transaction
+1020,4,Null Transaction
+1020,3,Null Transaction
+1020,2,Null Transaction
+1020,1,Buy
+1017,4,Null Transaction
+1017,3,Null Transaction
+1017,2,Null Transaction
+1017,1,Null Transaction
+1021,4,Null Transaction
+1021,3,Buy
+1021,2,Buy
+1021,1,Null Transaction
+1027,4,Buy
+1027,3,Null Transaction
+1027,2,Null Transaction
+1027,1,Buy
+1023,4,Buy
+1023,3,Buy
+1023,2,Null Transaction
+1023,1,Null Transaction
+1022,4,Null Transaction
+1022,3,Null Transaction
+1022,2,Null Transaction
+1022,1,Buy
+1022,4,Null Transaction
+1022,3,Null Transaction
+1022,2,Null Transaction
+1022,1,Buy
+1030,4,Buy
+1030,3,Null Transaction
+1030,2,Buy
+1030,1,Null Transaction
+1031,4,Null Transaction
+1031,3,Null Transaction
+1031,2,Null Transaction
+1031,1,Null Transaction
+1031,4,Null Transaction
+1031,3,Null Transaction
+1031,2,Buy
+1031,1,Null Transaction
+1031,4,Null Transaction
+1031,3,Null Transaction
+1031,2,Null Transaction
+1031,1,Null Transaction
+1032,4,Null Transaction
+1032,3,Buy
+1032,2,Null Transaction
+1032,1,Buy
+1035,4,Buy
+1035,3,Null Transaction
+1035,2,Buy
+1035,1,Buy
+1034,4,Buy
+1034,3,Buy
+1034,2,Buy
+1034,1,Null Transaction
+1039,4,Null Transaction
+1039,3,Buy
+1039,2,Buy
+1039,1,Null Transaction
+1036,4,Null Transaction
+1036,3,Null Transaction
+1036,2,Buy
+1036,1,Null Transaction
+1040,4,Buy
+1040,3,Null Transaction
+1040,2,Null Transaction
+1040,1,Null Transaction
+1038,4,Null Transaction
+1038,3,Null Transaction
+1038,2,Null Transaction
+1038,1,Null Transaction
+1039,4,Null Transaction
+1039,3,Null Transaction
+1039,2,Buy
+1039,1,Null Transaction
+1041,4,Buy
+1041,3,Null Transaction
+1041,2,Buy
+1041,1,Buy
+1043,4,Null Transaction
+1043,3,Null Transaction
+1043,2,Null Transaction
+1043,1,Null Transaction
+1044,4,Null Transaction
+1044,3,Buy
+1044,2,Buy
+1044,1,Null Transaction
+1044,4,Null Transaction
+1044,3,Null Transaction
+1044,2,Buy
+1044,1,Null Transaction
+1039,4,Null Transaction
+1039,3,Null Transaction
+1039,2,Null Transaction
+1039,1,Buy
+1044,4,Buy
+1044,3,Null Transaction
+1044,2,Null Transaction
+1044,1,Null Transaction
+1046,4,Null Transaction
+1046,3,Null Transaction
+1046,2,Null Transaction
+1046,1,Null Transaction
+1044,4,Null Transaction
+1044,3,Null Transaction
+1044,2,Null Transaction
+1044,1,Null Transaction
+1043,4,Buy
+1043,3,Null Transaction
+1043,2,Null Transaction
+1043,1,Null Transaction
+1049,4,Buy
+1049,3,Null Transaction
+1049,2,Null Transaction
+1049,1,Null Transaction
+1045,4,Null Transaction
+1045,3,Null Transaction
+1045,2,Null Transaction
+1045,1,Null Transaction
+1052,4,Null Transaction
+1052,3,Null Transaction
+1052,2,Null Transaction
+1052,1,Null Transaction
+1050,4,Null Transaction
+1050,3,Null Transaction
+1050,2,Null Transaction
+1050,1,Null Transaction
+1049,4,Null Transaction
+1049,3,Null Transaction
+1049,2,Null Transaction
+1049,1,Buy
+1051,4,Null Transaction
+1051,3,Null Transaction
+1051,2,Null Transaction
+1051,1,Null Transaction
+1050,4,Null Transaction
+1050,3,Buy
+1050,2,Null Transaction
+1050,1,Buy
+1058,4,Null Transaction
+1058,3,Null Transaction
+1058,2,Null Transaction
+1058,1,Null Transaction
+1055,4,Buy
+1055,3,Null Transaction
+1055,2,Null Transaction
+1055,1,Null Transaction
+1054,4,Null Transaction
+1054,3,Null Transaction
+1054,2,Buy
+1054,1,Buy
+1054,4,Null Transaction
+1054,3,Null Transaction
+1054,2,Null Transaction
+1054,1,Buy
+1056,4,Null Transaction
+1056,3,Null Transaction
+1056,2,Null Transaction
+1056,1,Null Transaction
+1061,4,Buy
+1061,3,Buy
+1061,2,Null Transaction
+1061,1,Buy
+1066,4,Buy
+1066,3,Null Transaction
+1066,2,Buy
+1066,1,Null Transaction
+1065,4,Null Transaction
+1065,3,Null Transaction
+1065,2,Buy
+1065,1,Null Transaction
+1063,4,Null Transaction
+1063,3,Null Transaction
+1063,2,Buy
+1063,1,Buy
+1060,4,Null Transaction
+1060,3,Null Transaction
+1060,2,Null Transaction
+1060,1,Null Transaction
+1062,4,Null Transaction
+1062,3,Buy
+1062,2,Buy
+1062,1,Buy
+1064,4,Null Transaction
+1064,3,Null Transaction
+1064,2,Null Transaction
+1064,1,Null Transaction
+1069,4,Null Transaction
+1069,3,Null Transaction
+1069,2,Buy
+1069,1,Null Transaction
+1065,4,Null Transaction
+1065,3,Null Transaction
+1065,2,Null Transaction
+1065,1,Null Transaction
+1070,4,Null Transaction
+1070,3,Buy
+1070,2,Null Transaction
+1070,1,Null Transaction
+1070,4,Null Transaction
+1070,3,Null Transaction
+1070,2,Null Transaction
+1070,1,Null Transaction
+1070,4,Null Transaction
+1070,3,Null Transaction
+1070,2,Buy
+1070,1,Null Transaction
+1070,4,Null Transaction
+1070,3,Null Transaction
+1070,2,Null Transaction
+1070,1,Buy
+1074,4,Null Transaction
+1074,3,Null Transaction
+1074,2,Null Transaction
+1074,1,Null Transaction
+1074,4,Null Transaction
+1074,3,Null Transaction
+1074,2,Null Transaction
+1074,1,Null Transaction
+1079,4,Null Transaction
+1079,3,Null Transaction
+1079,2,Null Transaction
+1079,1,Null Transaction
+1081,4,Null Transaction
+1081,3,Null Transaction
+1081,2,Null Transaction
+1081,1,Null Transaction
+1075,4,Buy
+1075,3,Null Transaction
+1075,2,Buy
+1075,1,Null Transaction
+1080,4,Buy
+1080,3,Null Transaction
+1080,2,Null Transaction
+1080,1,Null Transaction
+1083,4,Null Transaction
+1083,3,Buy
+1083,2,Null Transaction
+1083,1,Null Transaction
+1085,4,Null Transaction
+1085,3,Null Transaction
+1085,2,Null Transaction
+1085,1,Buy
+1079,4,Buy
+1079,3,Null Transaction
+1079,2,Null Transaction
+1079,1,Null Transaction
+1080,4,Null Transaction
+1080,3,Null Transaction
+1080,2,Null Transaction
+1080,1,Null Transaction
+1088,4,Null Transaction
+1088,3,Null Transaction
+1088,2,Null Transaction
+1088,1,Buy
+1085,4,Null Transaction
+1085,3,Null Transaction
+1085,2,Buy
+1085,1,Null Transaction
+1090,4,Buy
+1090,3,Null Transaction
+1090,2,Null Transaction
+1090,1,Buy
+1085,4,Null Transaction
+1085,3,Null Transaction
+1085,2,Null Transaction
+1085,1,Null Transaction
+1088,4,Null Transaction
+1088,3,Null Transaction
+1088,2,Null Transaction
+1088,1,Buy
+1093,4,Null Transaction
+1093,3,Null Transaction
+1093,2,Null Transaction
+1093,1,Buy
+1092,4,Null Transaction
+1092,3,Buy
+1092,2,Null Transaction
+1092,1,Null Transaction
+1087,4,Null Transaction
+1087,3,Null Transaction
+1087,2,Null Transaction
+1087,1,Null Transaction
+1087,4,Null Transaction
+1087,3,Null Transaction
+1087,2,Null Transaction
+1087,1,Null Transaction
+1093,4,Null Transaction
+1093,3,Null Transaction
+1093,2,Buy
+1093,1,Null Transaction
+1093,4,Null Transaction
+1093,3,Buy
+1093,2,Buy
+1093,1,Null Transaction
+1098,4,Buy
+1098,3,Null Transaction
+1098,2,Null Transaction
+1098,1,Null Transaction
+1092,4,Null Transaction
+1092,3,Null Transaction
+1092,2,Buy
+1092,1,Null Transaction
+1099,4,Null Transaction
+1099,3,Buy
+1099,2,Null Transaction
+1099,1,Buy
+1101,4,Null Transaction
+1101,3,Null Transaction
+1101,2,Buy
+1101,1,Null Transaction
+1103,4,Null Transaction
+1103,3,Null Transaction
+1103,2,Null Transaction
+1103,1,Buy
+1102,4,Buy
+1102,3,Buy
+1102,2,Null Transaction
+1102,1,Null Transaction
+1098,4,Null Transaction
+1098,3,Null Transaction
+1098,2,Null Transaction
+1098,1,Buy
+1104,4,Null Transaction
+1104,3,Null Transaction
+1104,2,Null Transaction
+1104,1,Null Transaction
+1099,4,Null Transaction
+1099,3,Null Transaction
+1099,2,Null Transaction
+1099,1,Null Transaction
+1108,4,Null Transaction
+1108,3,Buy
+1108,2,Null Transaction
+1108,1,Buy
+1108,4,Null Transaction
+1108,3,Buy
+1108,2,Null Transaction
+1108,1,Buy
+1110,4,Null Transaction
+1110,3,Buy
+1110,2,Buy
+1110,1,Buy
+1107,4,Null Transaction
+1107,3,Null Transaction
+1107,2,Null Transaction
+1107,1,Buy
+1112,4,Null Transaction
+1112,3,Null Transaction
+1112,2,Buy
+1112,1,Null Transaction
+1109,4,Null Transaction
+1109,3,Buy
+1109,2,Null Transaction
+1109,1,Null Transaction
+1107,4,Null Transaction
+1107,3,Null Transaction
+1107,2,Null Transaction
+1107,1,Null Transaction
+1111,4,Null Transaction
+1111,3,Null Transaction
+1111,2,Null Transaction
+1111,1,Null Transaction
+1108,4,Null Transaction
+1108,3,Null Transaction
+1108,2,Null Transaction
+1108,1,Null Transaction
+1114,4,Buy
+1114,3,Null Transaction
+1114,2,Buy
+1114,1,Null Transaction
+1114,4,Null Transaction
+1114,3,Null Transaction
+1114,2,Null Transaction
+1114,1,Null Transaction
+1119,4,Null Transaction
+1119,3,Buy
+1119,2,Null Transaction
+1119,1,Null Transaction
+1113,4,Buy
+1113,3,Null Transaction
+1113,2,Buy
+1113,1,Null Transaction
+1119,4,Null Transaction
+1119,3,Null Transaction
+1119,2,Null Transaction
+1119,1,Buy
+1113,4,Buy
+1113,3,Null Transaction
+1113,2,Null Transaction
+1113,1,Null Transaction
+1121,4,Buy
+1121,3,Buy
+1121,2,Buy
+1121,1,Buy
+1116,4,Null Transaction
+1116,3,Null Transaction
+1116,2,Null Transaction
+1116,1,Null Transaction
+1120,4,Buy
+1120,3,Null Transaction
+1120,2,Null Transaction
+1120,1,Null Transaction
+1124,4,Null Transaction
+1124,3,Null Transaction
+1124,2,Null Transaction
+1124,1,Null Transaction
+1126,4,Null Transaction
+1126,3,Null Transaction
+1126,2,Null Transaction
+1126,1,Buy
+1127,4,Null Transaction
+1127,3,Null Transaction
+1127,2,Null Transaction
+1127,1,Null Transaction
+1124,4,Buy
+1124,3,Null Transaction
+1124,2,Buy
+1124,1,Buy
+1125,4,Buy
+1125,3,Null Transaction
+1125,2,Null Transaction
+1125,1,Buy
+1129,4,Null Transaction
+1129,3,Buy
+1129,2,Null Transaction
+1129,1,Buy
+1131,4,Null Transaction
+1131,3,Null Transaction
+1131,2,Null Transaction
+1131,1,Buy
+1133,4,Null Transaction
+1133,3,Null Transaction
+1133,2,Null Transaction
+1133,1,Null Transaction
+1132,4,Null Transaction
+1132,3,Null Transaction
+1132,2,Buy
+1132,1,Null Transaction
+1134,4,Null Transaction
+1134,3,Null Transaction
+1134,2,Null Transaction
+1134,1,Null Transaction
+1130,4,Null Transaction
+1130,3,Null Transaction
+1130,2,Null Transaction
+1130,1,Null Transaction
+1137,4,Null Transaction
+1137,3,Null Transaction
+1137,2,Buy
+1137,1,Null Transaction
+1135,4,Null Transaction
+1135,3,Null Transaction
+1135,2,Buy
+1135,1,Buy
+1137,4,Null Transaction
+1137,3,Buy
+1137,2,Null Transaction
+1137,1,Buy
+1139,4,Null Transaction
+1139,3,Null Transaction
+1139,2,Buy
+1139,1,Null Transaction
+1135,4,Null Transaction
+1135,3,Buy
+1135,2,Null Transaction
+1135,1,Null Transaction
+1137,4,Null Transaction
+1137,3,Null Transaction
+1137,2,Null Transaction
+1137,1,Null Transaction
+1136,4,Null Transaction
+1136,3,Null Transaction
+1136,2,Null Transaction
+1136,1,Null Transaction
+1138,4,Null Transaction
+1138,3,Buy
+1138,2,Null Transaction
+1138,1,Null Transaction
+1138,4,Null Transaction
+1138,3,Null Transaction
+1138,2,Null Transaction
+1138,1,Null Transaction
+1139,4,Null Transaction
+1139,3,Null Transaction
+1139,2,Null Transaction
+1139,1,Null Transaction
+1138,4,Buy
+1138,3,Buy
+1138,2,Null Transaction
+1138,1,Null Transaction
+1145,4,Buy
+1145,3,Null Transaction
+1145,2,Null Transaction
+1145,1,Null Transaction
+1145,4,Null Transaction
+1145,3,Null Transaction
+1145,2,Null Transaction
+1145,1,Null Transaction
+1143,4,Null Transaction
+1143,3,Null Transaction
+1143,2,Null Transaction
+1143,1,Null Transaction
+1151,4,Null Transaction
+1151,3,Buy
+1151,2,Null Transaction
+1151,1,Null Transaction
+1150,4,Buy
+1150,3,Null Transaction
+1150,2,Null Transaction
+1150,1,Buy
+1152,4,Null Transaction
+1152,3,Buy
+1152,2,Buy
+1152,1,Null Transaction
+1149,4,Null Transaction
+1149,3,Null Transaction
+1149,2,Null Transaction
+1149,1,Null Transaction
+1149,4,Null Transaction
+1149,3,Null Transaction
+1149,2,Buy
+1149,1,Null Transaction
+1150,4,Null Transaction
+1150,3,Null Transaction
+1150,2,Null Transaction
+1150,1,Buy
+1154,4,Null Transaction
+1154,3,Buy
+1154,2,Null Transaction
+1154,1,Null Transaction
+1151,4,Null Transaction
+1151,3,Null Transaction
+1151,2,Null Transaction
+1151,1,Null Transaction
+1157,4,Null Transaction
+1157,3,Null Transaction
+1157,2,Null Transaction
+1157,1,Null Transaction
+1159,4,Null Transaction
+1159,3,Null Transaction
+1159,2,Buy
+1159,1,Null Transaction
+1156,4,Null Transaction
+1156,3,Null Transaction
+1156,2,Null Transaction
+1156,1,Null Transaction
+1158,4,Null Transaction
+1158,3,Null Transaction
+1158,2,Buy
+1158,1,Buy
+1157,4,Null Transaction
+1157,3,Buy
+1157,2,Buy
+1157,1,Null Transaction
+1164,4,Null Transaction
+1164,3,Null Transaction
+1164,2,Null Transaction
+1164,1,Null Transaction
+1157,4,Buy
+1157,3,Buy
+1157,2,Null Transaction
+1157,1,Null Transaction
+1157,4,Null Transaction
+1157,3,Null Transaction
+1157,2,Null Transaction
+1157,1,Buy
+1158,4,Null Transaction
+1158,3,Null Transaction
+1158,2,Buy
+1158,1,Null Transaction
+1159,4,Null Transaction
+1159,3,Null Transaction
+1159,2,Null Transaction
+1159,1,Null Transaction
+1162,4,Null Transaction
+1162,3,Null Transaction
+1162,2,Null Transaction
+1162,1,Null Transaction
+1164,4,Buy
+1164,3,Buy
+1164,2,Null Transaction
+1164,1,Null Transaction
+1163,4,Null Transaction
+1163,3,Null Transaction
+1163,2,Null Transaction
+1163,1,Buy
+1172,4,Null Transaction
+1172,3,Buy
+1172,2,Buy
+1172,1,Null Transaction
+1167,4,Null Transaction
+1167,3,Buy
+1167,2,Null Transaction
+1167,1,Null Transaction
+1173,4,Null Transaction
+1173,3,Buy
+1173,2,Null Transaction
+1173,1,Buy
+1174,4,Null Transaction
+1174,3,Null Transaction
+1174,2,Buy
+1174,1,Null Transaction
+1175,4,Null Transaction
+1175,3,Null Transaction
+1175,2,Null Transaction
+1175,1,Null Transaction
+1173,4,Null Transaction
+1173,3,Buy
+1173,2,Null Transaction
+1173,1,Null Transaction
+1174,4,Null Transaction
+1174,3,Null Transaction
+1174,2,Null Transaction
+1174,1,Null Transaction
+1173,4,Null Transaction
+1173,3,Null Transaction
+1173,2,Buy
+1173,1,Null Transaction
+1177,4,Null Transaction
+1177,3,Null Transaction
+1177,2,Null Transaction
+1177,1,Null Transaction
+1179,4,Buy
+1179,3,Null Transaction
+1179,2,Null Transaction
+1179,1,Buy
+1181,4,Null Transaction
+1181,3,Null Transaction
+1181,2,Buy
+1181,1,Null Transaction
+1175,4,Null Transaction
+1175,3,Null Transaction
+1175,2,Null Transaction
+1175,1,Null Transaction
+1184,4,Buy
+1184,3,Null Transaction
+1184,2,Null Transaction
+1184,1,Null Transaction
+1181,4,Null Transaction
+1181,3,Null Transaction
+1181,2,Buy
+1181,1,Buy
+1180,4,Null Transaction
+1180,3,Null Transaction
+1180,2,Null Transaction
+1180,1,Null Transaction
+1181,4,Null Transaction
+1181,3,Null Transaction
+1181,2,Buy
+1181,1,Null Transaction
+1183,4,Null Transaction
+1183,3,Null Transaction
+1183,2,Buy
+1183,1,Null Transaction
+1189,4,Null Transaction
+1189,3,Null Transaction
+1189,2,Null Transaction
+1189,1,Null Transaction
+1187,4,Null Transaction
+1187,3,Buy
+1187,2,Buy
+1187,1,Null Transaction
+1189,4,Buy
+1189,3,Null Transaction
+1189,2,Buy
+1189,1,Null Transaction
+1189,4,Buy
+1189,3,Buy
+1189,2,Buy
+1189,1,Null Transaction
+1191,4,Null Transaction
+1191,3,Null Transaction
+1191,2,Buy
+1191,1,Null Transaction
+1190,4,Null Transaction
+1190,3,Buy
+1190,2,Buy
+1190,1,Null Transaction
+1188,4,Buy
+1188,3,Null Transaction
+1188,2,Null Transaction
+1188,1,Buy
+1191,4,Null Transaction
+1191,3,Null Transaction
+1191,2,Null Transaction
+1191,1,Buy
+1188,4,Null Transaction
+1188,3,Null Transaction
+1188,2,Null Transaction
+1188,1,Null Transaction
+1195,4,Buy
+1195,3,Null Transaction
+1195,2,Null Transaction
+1195,1,Buy
+1197,4,Null Transaction
+1197,3,Null Transaction
+1197,2,Null Transaction
+1197,1,Null Transaction
+1191,4,Buy
+1191,3,Null Transaction
+1191,2,Null Transaction
+1191,1,Null Transaction
+1193,4,Null Transaction
+1193,3,Null Transaction
+1193,2,Buy
+1193,1,Null Transaction
+1200,4,Null Transaction
+1200,3,Null Transaction
+1200,2,Null Transaction
+1200,1,Null Transaction
+1198,4,Null Transaction
+1198,3,Buy
+1198,2,Null Transaction
+1198,1,Null Transaction
+1201,4,Null Transaction
+1201,3,Null Transaction
+1201,2,Null Transaction
+1201,1,Null Transaction
+1203,4,Null Transaction
+1203,3,Null Transaction
+1203,2,Null Transaction
+1203,1,Buy
+1198,4,Null Transaction
+1198,3,Null Transaction
+1198,2,Null Transaction
+1198,1,Null Transaction
+1206,4,Null Transaction
+1206,3,Null Transaction
+1206,2,Buy
+1206,1,Buy
+1208,4,Null Transaction
+1208,3,Buy
+1208,2,Null Transaction
+1208,1,Buy
+1201,4,Null Transaction
+1201,3,Buy
+1201,2,Null Transaction
+1201,1,Buy
+1210,4,Null Transaction
+1210,3,Null Transaction
+1210,2,Null Transaction
+1210,1,Null Transaction
+1209,4,Null Transaction
+1209,3,Null Transaction
+1209,2,Null Transaction
+1209,1,Null Transaction
+1212,4,Null Transaction
+1212,3,Null Transaction
+1212,2,Buy
+1212,1,Null Transaction
+1208,4,Null Transaction
+1208,3,Null Transaction
+1208,2,Null Transaction
+1208,1,Null Transaction
+1214,4,Buy
+1214,3,Null Transaction
+1214,2,Null Transaction
+1214,1,Buy
+1206,4,Null Transaction
+1206,3,Null Transaction
+1206,2,Null Transaction
+1206,1,Null Transaction
+1214,4,Null Transaction
+1214,3,Buy
+1214,2,Null Transaction
+1214,1,Null Transaction
+1216,4,Null Transaction
+1216,3,Buy
+1216,2,Null Transaction
+1216,1,Buy
+1215,4,Null Transaction
+1215,3,Null Transaction
+1215,2,Null Transaction
+1215,1,Null Transaction
+1219,4,Null Transaction
+1219,3,Null Transaction
+1219,2,Null Transaction
+1219,1,Null Transaction
+1215,4,Buy
+1215,3,Null Transaction
+1215,2,Null Transaction
+1215,1,Null Transaction
+1212,4,Null Transaction
+1212,3,Null Transaction
+1212,2,Null Transaction
+1212,1,Null Transaction
+1218,4,Null Transaction
+1218,3,Null Transaction
+1218,2,Buy
+1218,1,Null Transaction
+1219,4,Null Transaction
+1219,3,Buy
+1219,2,Null Transaction
+1219,1,Buy
+1221,4,Null Transaction
+1221,3,Null Transaction
+1221,2,Null Transaction
+1221,1,Null Transaction
+1222,4,Null Transaction
+1222,3,Null Transaction
+1222,2,Buy
+1222,1,Null Transaction
+1220,4,Null Transaction
+1220,3,Null Transaction
+1220,2,Null Transaction
+1220,1,Null Transaction
+1219,4,Null Transaction
+1219,3,Buy
+1219,2,Null Transaction
+1219,1,Null Transaction
+1220,4,Null Transaction
+1220,3,Null Transaction
+1220,2,Null Transaction
+1220,1,Null Transaction
+1223,4,Null Transaction
+1223,3,Buy
+1223,2,Null Transaction
+1223,1,Buy
+1225,4,Buy
+1225,3,Null Transaction
+1225,2,Null Transaction
+1225,1,Null Transaction
+1227,4,Buy
+1227,3,Null Transaction
+1227,2,Buy
+1227,1,Buy
+1228,4,Null Transaction
+1228,3,Null Transaction
+1228,2,Null Transaction
+1228,1,Null Transaction
+1227,4,Null Transaction
+1227,3,Null Transaction
+1227,2,Null Transaction
+1227,1,Buy
+1228,4,Null Transaction
+1228,3,Null Transaction
+1228,2,Buy
+1228,1,Null Transaction
+1234,4,Buy
+1234,3,Null Transaction
+1234,2,Null Transaction
+1234,1,Null Transaction
+1235,4,Null Transaction
+1235,3,Buy
+1235,2,Buy
+1235,1,Buy
+1230,4,Null Transaction
+1230,3,Null Transaction
+1230,2,Null Transaction
+1230,1,Null Transaction
+1238,4,Buy
+1238,3,Buy
+1238,2,Null Transaction
+1238,1,Buy
+1230,4,Null Transaction
+1230,3,Null Transaction
+1230,2,Null Transaction
+1230,1,Null Transaction
+1237,4,Buy
+1237,3,Null Transaction
+1237,2,Buy
+1237,1,Null Transaction
+1235,4,Null Transaction
+1235,3,Null Transaction
+1235,2,Null Transaction
+1235,1,Null Transaction
+1238,4,Buy
+1238,3,Buy
+1238,2,Null Transaction
+1238,1,Buy
+1235,4,Null Transaction
+1235,3,Null Transaction
+1235,2,Null Transaction
+1235,1,Buy
+1236,4,Buy
+1236,3,Null Transaction
+1236,2,Null Transaction
+1236,1,Buy
+1242,4,Null Transaction
+1242,3,Null Transaction
+1242,2,Buy
+1242,1,Null Transaction
+1245,4,Null Transaction
+1245,3,Buy
+1245,2,Buy
+1245,1,Null Transaction
+1245,4,Buy
+1245,3,Buy
+1245,2,Null Transaction
+1245,1,Null Transaction
+1242,4,Null Transaction
+1242,3,Null Transaction
+1242,2,Buy
+1242,1,Buy
+1248,4,Null Transaction
+1248,3,Null Transaction
+1248,2,Null Transaction
+1248,1,Null Transaction
+1247,4,Buy
+1247,3,Null Transaction
+1247,2,Null Transaction
+1247,1,Buy
+1251,4,Null Transaction
+1251,3,Null Transaction
+1251,2,Null Transaction
+1251,1,Null Transaction
+1252,4,Null Transaction
+1252,3,Null Transaction
+1252,2,Null Transaction
+1252,1,Null Transaction
+1250,4,Null Transaction
+1250,3,Null Transaction
+1250,2,Null Transaction
+1250,1,Null Transaction
+1253,4,Null Transaction
+1253,3,Buy
+1253,2,Null Transaction
+1253,1,Null Transaction
+1253,4,Null Transaction
+1253,3,Buy
+1253,2,Null Transaction
+1253,1,Buy
+1256,4,Buy
+1256,3,Null Transaction
+1256,2,Buy
+1256,1,Buy
+1252,4,Buy
+1252,3,Null Transaction
+1252,2,Buy
+1252,1,Null Transaction
+1249,4,Null Transaction
+1249,3,Buy
+1249,2,Null Transaction
+1249,1,Buy
+1256,4,Buy
+1256,3,Null Transaction
+1256,2,Null Transaction
+1256,1,Buy
+1253,4,Buy
+1253,3,Null Transaction
+1253,2,Null Transaction
+1253,1,Null Transaction
+1257,4,Null Transaction
+1257,3,Null Transaction
+1257,2,Null Transaction
+1257,1,Null Transaction
+1257,4,Null Transaction
+1257,3,Null Transaction
+1257,2,Null Transaction
+1257,1,Buy
+1255,4,Buy
+1255,3,Buy
+1255,2,Null Transaction
+1255,1,Null Transaction
+1260,4,Null Transaction
+1260,3,Null Transaction
+1260,2,Buy
+1260,1,Buy
+1263,4,Null Transaction
+1263,3,Null Transaction
+1263,2,Null Transaction
+1263,1,Null Transaction
+1262,4,Null Transaction
+1262,3,Null Transaction
+1262,2,Buy
+1262,1,Buy
+1262,4,Null Transaction
+1262,3,Null Transaction
+1262,2,Buy
+1262,1,Null Transaction
+1264,4,Null Transaction
+1264,3,Null Transaction
+1264,2,Null Transaction
+1264,1,Null Transaction
+1265,4,Null Transaction
+1265,3,Null Transaction
+1265,2,Null Transaction
+1265,1,Null Transaction
+1270,4,Null Transaction
+1270,3,Null Transaction
+1270,2,Null Transaction
+1270,1,Null Transaction
+1262,4,Null Transaction
+1262,3,Null Transaction
+1262,2,Buy
+1262,1,Null Transaction
+1267,4,Null Transaction
+1267,3,Buy
+1267,2,Buy
+1267,1,Null Transaction
+1271,4,Null Transaction
+1271,3,Null Transaction
+1271,2,Null Transaction
+1271,1,Null Transaction
+1274,4,Null Transaction
+1274,3,Buy
+1274,2,Null Transaction
+1274,1,Null Transaction
+1268,4,Null Transaction
+1268,3,Null Transaction
+1268,2,Buy
+1268,1,Null Transaction
+1268,4,Buy
+1268,3,Null Transaction
+1268,2,Null Transaction
+1268,1,Null Transaction
+1274,4,Null Transaction
+1274,3,Null Transaction
+1274,2,Null Transaction
+1274,1,Null Transaction
+1271,4,Buy
+1271,3,Null Transaction
+1271,2,Buy
+1271,1,Buy
+1270,4,Null Transaction
+1270,3,Null Transaction
+1270,2,Null Transaction
+1270,1,Null Transaction
+1277,4,Buy
+1277,3,Buy
+1277,2,Null Transaction
+1277,1,Null Transaction
+1278,4,Buy
+1278,3,Buy
+1278,2,Null Transaction
+1278,1,Null Transaction
+1281,4,Buy
+1281,3,Null Transaction
+1281,2,Null Transaction
+1281,1,Buy
+1283,4,Null Transaction
+1283,3,Null Transaction
+1283,2,Null Transaction
+1283,1,Null Transaction
+1277,4,Null Transaction
+1277,3,Buy
+1277,2,Null Transaction
+1277,1,Null Transaction
+1278,4,Null Transaction
+1278,3,Null Transaction
+1278,2,Null Transaction
+1278,1,Null Transaction
+1283,4,Null Transaction
+1283,3,Null Transaction
+1283,2,Null Transaction
+1283,1,Null Transaction
+1281,4,Null Transaction
+1281,3,Buy
+1281,2,Null Transaction
+1281,1,Null Transaction
+1288,4,Null Transaction
+1288,3,Null Transaction
+1288,2,Null Transaction
+1288,1,Buy
+1282,4,Null Transaction
+1282,3,Buy
+1282,2,Null Transaction
+1282,1,Null Transaction
+1286,4,Null Transaction
+1286,3,Null Transaction
+1286,2,Buy
+1286,1,Null Transaction
+1284,4,Null Transaction
+1284,3,Null Transaction
+1284,2,Null Transaction
+1284,1,Null Transaction
+1284,4,Null Transaction
+1284,3,Null Transaction
+1284,2,Null Transaction
+1284,1,Buy
+1285,4,Buy
+1285,3,Null Transaction
+1285,2,Null Transaction
+1285,1,Null Transaction
+1290,4,Null Transaction
+1290,3,Null Transaction
+1290,2,Null Transaction
+1290,1,Buy
+1291,4,Null Transaction
+1291,3,Buy
+1291,2,Null Transaction
+1291,1,Null Transaction
+1288,4,Null Transaction
+1288,3,Null Transaction
+1288,2,Null Transaction
+1288,1,Null Transaction
+1288,4,Null Transaction
+1288,3,Null Transaction
+1288,2,Null Transaction
+1288,1,Null Transaction
+1293,4,Null Transaction
+1293,3,Null Transaction
+1293,2,Null Transaction
+1293,1,Null Transaction
+1294,4,Null Transaction
+1294,3,Null Transaction
+1294,2,Null Transaction
+1294,1,Null Transaction
+1292,4,Null Transaction
+1292,3,Null Transaction
+1292,2,Null Transaction
+1292,1,Buy
+1300,4,Null Transaction
+1300,3,Null Transaction
+1300,2,Null Transaction
+1300,1,Null Transaction
+1296,4,Null Transaction
+1296,3,Buy
+1296,2,Null Transaction
+1296,1,Buy
+1298,4,Buy
+1298,3,Null Transaction
+1298,2,Null Transaction
+1298,1,Null Transaction
+1297,4,Null Transaction
+1297,3,Null Transaction
+1297,2,Null Transaction
+1297,1,Null Transaction
+1305,4,Null Transaction
+1305,3,Buy
+1305,2,Null Transaction
+1305,1,Null Transaction
+1298,4,Null Transaction
+1298,3,Buy
+1298,2,Buy
+1298,1,Null Transaction
+1304,4,Null Transaction
+1304,3,Null Transaction
+1304,2,Null Transaction
+1304,1,Null Transaction
+1304,4,Buy
+1304,3,Null Transaction
+1304,2,Null Transaction
+1304,1,Null Transaction
+1307,4,Null Transaction
+1307,3,Buy
+1307,2,Null Transaction
+1307,1,Buy
+1306,4,Null Transaction
+1306,3,Null Transaction
+1306,2,Null Transaction
+1306,1,Null Transaction
+1304,4,Null Transaction
+1304,3,Null Transaction
+1304,2,Null Transaction
+1304,1,Buy
+1307,4,Buy
+1307,3,Null Transaction
+1307,2,Null Transaction
+1307,1,Null Transaction
+1311,4,Buy
+1311,3,Null Transaction
+1311,2,Null Transaction
+1311,1,Null Transaction
+1305,4,Null Transaction
+1305,3,Null Transaction
+1305,2,Null Transaction
+1305,1,Null Transaction
+1314,4,Null Transaction
+1314,3,Null Transaction
+1314,2,Null Transaction
+1314,1,Buy
+1308,4,Null Transaction
+1308,3,Buy
+1308,2,Null Transaction
+1308,1,Null Transaction
+1314,4,Buy
+1314,3,Null Transaction
+1314,2,Buy
+1314,1,Null Transaction
+1314,4,Null Transaction
+1314,3,Null Transaction
+1314,2,Null Transaction
+1314,1,Null Transaction
+1318,4,Null Transaction
+1318,3,Null Transaction
+1318,2,Null Transaction
+1318,1,Null Transaction
+1312,4,Null Transaction
+1312,3,Null Transaction
+1312,2,Null Transaction
+1312,1,Null Transaction
+1318,4,Buy
+1318,3,Buy
+1318,2,Null Transaction
+1318,1,Buy
+1320,4,Null Transaction
+1320,3,Buy
+1320,2,Null Transaction
+1320,1,Null Transaction
+1321,4,Null Transaction
+1321,3,Buy
+1321,2,Null Transaction
+1321,1,Buy
+1323,4,Null Transaction
+1323,3,Null Transaction
+1323,2,Null Transaction
+1323,1,Null Transaction
+1323,4,Null Transaction
+1323,3,Null Transaction
+1323,2,Null Transaction
+1323,1,Buy
+1319,4,Null Transaction
+1319,3,Null Transaction
+1319,2,Buy
+1319,1,Buy
+1326,4,Null Transaction
+1326,3,Null Transaction
+1326,2,Null Transaction
+1326,1,Null Transaction
+1325,4,Null Transaction
+1325,3,Null Transaction
+1325,2,Null Transaction
+1325,1,Null Transaction
+1329,4,Null Transaction
+1329,3,Null Transaction
+1329,2,Null Transaction
+1329,1,Null Transaction
+1329,4,Null Transaction
+1329,3,Null Transaction
+1329,2,Buy
+1329,1,Buy
+1330,4,Null Transaction
+1330,3,Null Transaction
+1330,2,Null Transaction
+1330,1,Buy
+1325,4,Null Transaction
+1325,3,Null Transaction
+1325,2,Buy
+1325,1,Null Transaction
+1330,4,Null Transaction
+1330,3,Null Transaction
+1330,2,Null Transaction
+1330,1,Buy
+1331,4,Null Transaction
+1331,3,Buy
+1331,2,Null Transaction
+1331,1,Null Transaction
+1328,4,Buy
+1328,3,Null Transaction
+1328,2,Buy
+1328,1,Null Transaction
+1332,4,Null Transaction
+1332,3,Null Transaction
+1332,2,Null Transaction
+1332,1,Null Transaction
+1331,4,Null Transaction
+1331,3,Null Transaction
+1331,2,Null Transaction
+1331,1,Null Transaction
+1337,4,Null Transaction
+1337,3,Buy
+1337,2,Buy
+1337,1,Buy
+1333,4,Null Transaction
+1333,3,Null Transaction
+1333,2,Null Transaction
+1333,1,Null Transaction
+1332,4,Null Transaction
+1332,3,Null Transaction
+1332,2,Buy
+1332,1,Null Transaction
+1336,4,Null Transaction
+1336,3,Buy
+1336,2,Null Transaction
+1336,1,Null Transaction
+1334,4,Null Transaction
+1334,3,Null Transaction
+1334,2,Null Transaction
+1334,1,Null Transaction
+1336,4,Null Transaction
+1336,3,Null Transaction
+1336,2,Null Transaction
+1336,1,Buy
+1344,4,Null Transaction
+1344,3,Buy
+1344,2,Null Transaction
+1344,1,Null Transaction
+1345,4,Null Transaction
+1345,3,Null Transaction
+1345,2,Null Transaction
+1345,1,Null Transaction
+1346,4,Null Transaction
+1346,3,Null Transaction
+1346,2,Null Transaction
+1346,1,Null Transaction
+1340,4,Null Transaction
+1340,3,Null Transaction
+1340,2,Null Transaction
+1340,1,Buy
+1347,4,Null Transaction
+1347,3,Null Transaction
+1347,2,Null Transaction
+1347,1,Null Transaction
+1342,4,Null Transaction
+1342,3,Null Transaction
+1342,2,Null Transaction
+1342,1,Buy
+1342,4,Null Transaction
+1342,3,Null Transaction
+1342,2,Null Transaction
+1342,1,Null Transaction
+1350,4,Null Transaction
+1350,3,Null Transaction
+1350,2,Null Transaction
+1350,1,Null Transaction
+1347,4,Null Transaction
+1347,3,Null Transaction
+1347,2,Buy
+1347,1,Null Transaction
+1344,4,Null Transaction
+1344,3,Buy
+1344,2,Null Transaction
+1344,1,Null Transaction
+1350,4,Buy
+1350,3,Null Transaction
+1350,2,Null Transaction
+1350,1,Null Transaction
+1346,4,Null Transaction
+1346,3,Null Transaction
+1346,2,Buy
+1346,1,Buy
+1354,4,Buy
+1354,3,Buy
+1354,2,Null Transaction
+1354,1,Buy
+1353,4,Buy
+1353,3,Null Transaction
+1353,2,Null Transaction
+1353,1,Buy
+1358,4,Null Transaction
+1358,3,Buy
+1358,2,Buy
+1358,1,Null Transaction
+1359,4,Buy
+1359,3,Null Transaction
+1359,2,Null Transaction
+1359,1,Null Transaction
+1352,4,Null Transaction
+1352,3,Buy
+1352,2,Null Transaction
+1352,1,Null Transaction
+1352,4,Null Transaction
+1352,3,Buy
+1352,2,Null Transaction
+1352,1,Buy
+1354,4,Null Transaction
+1354,3,Buy
+1354,2,Null Transaction
+1354,1,Null Transaction
+1359,4,Null Transaction
+1359,3,Buy
+1359,2,Buy
+1359,1,Null Transaction
+1363,4,Null Transaction
+1363,3,Buy
+1363,2,Null Transaction
+1363,1,Null Transaction
+1359,4,Null Transaction
+1359,3,Null Transaction
+1359,2,Null Transaction
+1359,1,Null Transaction
+1360,4,Null Transaction
+1360,3,Buy
+1360,2,Buy
+1360,1,Null Transaction
+1361,4,Null Transaction
+1361,3,Null Transaction
+1361,2,Null Transaction
+1361,1,Buy
+1367,4,Buy
+1367,3,Null Transaction
+1367,2,Null Transaction
+1367,1,Null Transaction
+1369,4,Buy
+1369,3,Null Transaction
+1369,2,Null Transaction
+1369,1,Buy
+1367,4,Null Transaction
+1367,3,Null Transaction
+1367,2,Buy
+1367,1,Buy
+1371,4,Buy
+1371,3,Buy
+1371,2,Null Transaction
+1371,1,Null Transaction
+1369,4,Null Transaction
+1369,3,Buy
+1369,2,Null Transaction
+1369,1,Null Transaction
+1370,4,Null Transaction
+1370,3,Buy
+1370,2,Null Transaction
+1370,1,Buy
+1368,4,Buy
+1368,3,Buy
+1368,2,Null Transaction
+1368,1,Buy
+1374,4,Null Transaction
+1374,3,Buy
+1374,2,Buy
+1374,1,Buy
+1369,4,Buy
+1369,3,Null Transaction
+1369,2,Null Transaction
+1369,1,Null Transaction
+1375,4,Buy
+1375,3,Null Transaction
+1375,2,Buy
+1375,1,Null Transaction
+1369,4,Null Transaction
+1369,3,Null Transaction
+1369,2,Null Transaction
+1369,1,Null Transaction
+1371,4,Buy
+1371,3,Null Transaction
+1371,2,Null Transaction
+1371,1,Null Transaction
+1380,4,Null Transaction
+1380,3,Null Transaction
+1380,2,Null Transaction
+1380,1,Null Transaction
+1374,4,Null Transaction
+1374,3,Null Transaction
+1374,2,Buy
+1374,1,Null Transaction
+1373,4,Null Transaction
+1373,3,Buy
+1373,2,Null Transaction
+1373,1,Null Transaction
+1381,4,Null Transaction
+1381,3,Null Transaction
+1381,2,Null Transaction
+1381,1,Buy
+1377,4,Buy
+1377,3,Null Transaction
+1377,2,Null Transaction
+1377,1,Null Transaction
+1380,4,Null Transaction
+1380,3,Null Transaction
+1380,2,Null Transaction
+1380,1,Buy
+1379,4,Null Transaction
+1379,3,Null Transaction
+1379,2,Null Transaction
+1379,1,Null Transaction
+1380,4,Null Transaction
+1380,3,Null Transaction
+1380,2,Null Transaction
+1380,1,Null Transaction
+1384,4,Buy
+1384,3,Buy
+1384,2,Null Transaction
+1384,1,Buy
+1387,4,Null Transaction
+1387,3,Null Transaction
+1387,2,Null Transaction
+1387,1,Null Transaction
+1382,4,Null Transaction
+1382,3,Null Transaction
+1382,2,Null Transaction
+1382,1,Null Transaction
+1384,4,Null Transaction
+1384,3,Null Transaction
+1384,2,Buy
+1384,1,Null Transaction
+1383,4,Null Transaction
+1383,3,Buy
+1383,2,Null Transaction
+1383,1,Null Transaction
+1384,4,Null Transaction
+1384,3,Null Transaction
+1384,2,Null Transaction
+1384,1,Null Transaction
+1388,4,Buy
+1388,3,Null Transaction
+1388,2,Null Transaction
+1388,1,Null Transaction
+1393,4,Null Transaction
+1393,3,Null Transaction
+1393,2,Null Transaction
+1393,1,Buy
+1390,4,Null Transaction
+1390,3,Null Transaction
+1390,2,Null Transaction
+1390,1,Null Transaction
+1392,4,Null Transaction
+1392,3,Buy
+1392,2,Buy
+1392,1,Null Transaction
+1389,4,Buy
+1389,3,Null Transaction
+1389,2,Null Transaction
+1389,1,Buy
+1391,4,Null Transaction
+1391,3,Null Transaction
+1391,2,Null Transaction
+1391,1,Null Transaction
+1400,4,Null Transaction
+1400,3,Null Transaction
+1400,2,Null Transaction
+1400,1,Buy
+1395,4,Null Transaction
+1395,3,Null Transaction
+1395,2,Null Transaction
+1395,1,Null Transaction
+1398,4,Null Transaction
+1398,3,Buy
+1398,2,Buy
+1398,1,Null Transaction
+1402,4,Null Transaction
+1402,3,Null Transaction
+1402,2,Null Transaction
+1402,1,Null Transaction
+1397,4,Null Transaction
+1397,3,Buy
+1397,2,Null Transaction
+1397,1,Null Transaction
+1401,4,Buy
+1401,3,Null Transaction
+1401,2,Null Transaction
+1401,1,Null Transaction
+1398,4,Null Transaction
+1398,3,Null Transaction
+1398,2,Null Transaction
+1398,1,Buy
+1399,4,Null Transaction
+1399,3,Null Transaction
+1399,2,Buy
+1399,1,Buy
+1402,4,Null Transaction
+1402,3,Buy
+1402,2,Null Transaction
+1402,1,Null Transaction
+1400,4,Null Transaction
+1400,3,Buy
+1400,2,Null Transaction
+1400,1,Null Transaction
+1403,4,Buy
+1403,3,Buy
+1403,2,Buy
+1403,1,Buy
+1411,4,Buy
+1411,3,Null Transaction
+1411,2,Buy
+1411,1,Null Transaction
+1405,4,Buy
+1405,3,Null Transaction
+1405,2,Null Transaction
+1405,1,Null Transaction
+1409,4,Null Transaction
+1409,3,Buy
+1409,2,Null Transaction
+1409,1,Null Transaction
+1405,4,Null Transaction
+1405,3,Null Transaction
+1405,2,Null Transaction
+1405,1,Buy
+1407,4,Buy
+1407,3,Null Transaction
+1407,2,Null Transaction
+1407,1,Null Transaction
+1412,4,Null Transaction
+1412,3,Null Transaction
+1412,2,Null Transaction
+1412,1,Buy
+1415,4,Null Transaction
+1415,3,Null Transaction
+1415,2,Null Transaction
+1415,1,Null Transaction
+1412,4,Buy
+1412,3,Null Transaction
+1412,2,Null Transaction
+1412,1,Null Transaction
+1414,4,Null Transaction
+1414,3,Buy
+1414,2,Buy
+1414,1,Null Transaction
+1413,4,Null Transaction
+1413,3,Buy
+1413,2,Null Transaction
+1413,1,Null Transaction
+1413,4,Buy
+1413,3,Null Transaction
+1413,2,Buy
+1413,1,Null Transaction
+1421,4,Null Transaction
+1421,3,Null Transaction
+1421,2,Null Transaction
+1421,1,Null Transaction
+1414,4,Null Transaction
+1414,3,Null Transaction
+1414,2,Null Transaction
+1414,1,Null Transaction
+1418,4,Buy
+1418,3,Null Transaction
+1418,2,Null Transaction
+1418,1,Null Transaction
+1420,4,Null Transaction
+1420,3,Null Transaction
+1420,2,Null Transaction
+1420,1,Null Transaction
+1419,4,Null Transaction
+1419,3,Buy
+1419,2,Buy
+1419,1,Null Transaction
+1419,4,Buy
+1419,3,Null Transaction
+1419,2,Null Transaction
+1419,1,Null Transaction
+1427,4,Buy
+1427,3,Null Transaction
+1427,2,Null Transaction
+1427,1,Buy
+1424,4,Null Transaction
+1424,3,Null Transaction
+1424,2,Null Transaction
+1424,1,Null Transaction
+1423,4,Buy
+1423,3,Buy
+1423,2,Buy
+1423,1,Null Transaction
+1427,4,Null Transaction
+1427,3,Null Transaction
+1427,2,Null Transaction
+1427,1,Null Transaction
+1432,4,Null Transaction
+1432,3,Null Transaction
+1432,2,Buy
+1432,1,Null Transaction
+1424,4,Buy
+1424,3,Null Transaction
+1424,2,Buy
+1424,1,Buy
+1428,4,Null Transaction
+1428,3,Null Transaction
+1428,2,Buy
+1428,1,Null Transaction
+1429,4,Buy
+1429,3,Null Transaction
+1429,2,Null Transaction
+1429,1,Buy
+1428,4,Null Transaction
+1428,3,Buy
+1428,2,Null Transaction
+1428,1,Null Transaction
+1428,4,Null Transaction
+1428,3,Buy
+1428,2,Null Transaction
+1428,1,Buy
+1434,4,Null Transaction
+1434,3,Null Transaction
+1434,2,Null Transaction
+1434,1,Null Transaction
+1437,4,Buy
+1437,3,Buy
+1437,2,Null Transaction
+1437,1,Buy
+1435,4,Null Transaction
+1435,3,Null Transaction
+1435,2,Null Transaction
+1435,1,Null Transaction
+1432,4,Null Transaction
+1432,3,Null Transaction
+1432,2,Buy
+1432,1,Buy
+1436,4,Buy
+1436,3,Null Transaction
+1436,2,Null Transaction
+1436,1,Buy
+1436,4,Null Transaction
+1436,3,Null Transaction
+1436,2,Null Transaction
+1436,1,Null Transaction
+1438,4,Null Transaction
+1438,3,Buy
+1438,2,Null Transaction
+1438,1,Null Transaction
+1441,4,Buy
+1441,3,Null Transaction
+1441,2,Buy
+1441,1,Null Transaction
+1442,4,Buy
+1442,3,Null Transaction
+1442,2,Null Transaction
+1442,1,Null Transaction
+1446,4,Null Transaction
+1446,3,Null Transaction
+1446,2,Buy
+1446,1,Buy
+1447,4,Null Transaction
+1447,3,Null Transaction
+1447,2,Buy
+1447,1,Null Transaction
+1447,4,Null Transaction
+1447,3,Null Transaction
+1447,2,Buy
+1447,1,Null Transaction
+1441,4,Null Transaction
+1441,3,Buy
+1441,2,Null Transaction
+1441,1,Buy
+1446,4,Null Transaction
+1446,3,Null Transaction
+1446,2,Null Transaction
+1446,1,Null Transaction
+1450,4,Buy
+1450,3,Null Transaction
+1450,2,Null Transaction
+1450,1,Null Transaction
+1444,4,Null Transaction
+1444,3,Null Transaction
+1444,2,Null Transaction
+1444,1,Buy
+1446,4,Null Transaction
+1446,3,Null Transaction
+1446,2,Buy
+1446,1,Null Transaction
+1449,4,Null Transaction
+1449,3,Null Transaction
+1449,2,Null Transaction
+1449,1,Null Transaction
+1454,4,Null Transaction
+1454,3,Null Transaction
+1454,2,Null Transaction
+1454,1,Null Transaction
+1450,4,Buy
+1450,3,Null Transaction
+1450,2,Buy
+1450,1,Null Transaction
+1456,4,Null Transaction
+1456,3,Null Transaction
+1456,2,Buy
+1456,1,Null Transaction
+1456,4,Null Transaction
+1456,3,Null Transaction
+1456,2,Null Transaction
+1456,1,Null Transaction
+1451,4,Null Transaction
+1451,3,Null Transaction
+1451,2,Null Transaction
+1451,1,Null Transaction
+1452,4,Buy
+1452,3,Buy
+1452,2,Null Transaction
+1452,1,Null Transaction
+1461,4,Null Transaction
+1461,3,Null Transaction
+1461,2,Buy
+1461,1,Buy
+1459,4,Null Transaction
+1459,3,Null Transaction
+1459,2,Null Transaction
+1459,1,Null Transaction
+1463,4,Buy
+1463,3,Null Transaction
+1463,2,Null Transaction
+1463,1,Null Transaction
+1462,4,Null Transaction
+1462,3,Null Transaction
+1462,2,Null Transaction
+1462,1,Null Transaction
+1463,4,Buy
+1463,3,Null Transaction
+1463,2,Buy
+1463,1,Null Transaction
+1462,4,Null Transaction
+1462,3,Null Transaction
+1462,2,Null Transaction
+1462,1,Buy
+1465,4,Buy
+1465,3,Null Transaction
+1465,2,Buy
+1465,1,Null Transaction
+1462,4,Buy
+1462,3,Buy
+1462,2,Buy
+1462,1,Buy
+1468,4,Null Transaction
+1468,3,Buy
+1468,2,Null Transaction
+1468,1,Null Transaction
+1469,4,Null Transaction
+1469,3,Null Transaction
+1469,2,Buy
+1469,1,Null Transaction
+1463,4,Null Transaction
+1463,3,Null Transaction
+1463,2,Null Transaction
+1463,1,Null Transaction
+1468,4,Buy
+1468,3,Null Transaction
+1468,2,Buy
+1468,1,Null Transaction
+1471,4,Null Transaction
+1471,3,Null Transaction
+1471,2,Null Transaction
+1471,1,Null Transaction
+1466,4,Null Transaction
+1466,3,Buy
+1466,2,Null Transaction
+1466,1,Null Transaction
+1467,4,Null Transaction
+1467,3,Null Transaction
+1467,2,Null Transaction
+1467,1,Buy
+1469,4,Buy
+1469,3,Buy
+1469,2,Buy
+1469,1,Buy
+1470,4,Null Transaction
+1470,3,Null Transaction
+1470,2,Buy
+1470,1,Null Transaction
+1476,4,Null Transaction
+1476,3,Null Transaction
+1476,2,Null Transaction
+1476,1,Null Transaction
+1476,4,Buy
+1476,3,Null Transaction
+1476,2,Null Transaction
+1476,1,Null Transaction
+1473,4,Buy
+1473,3,Null Transaction
+1473,2,Null Transaction
+1473,1,Null Transaction
+1481,4,Null Transaction
+1481,3,Null Transaction
+1481,2,Null Transaction
+1481,1,Buy
+1481,4,Buy
+1481,3,Buy
+1481,2,Buy
+1481,1,Buy
+1482,4,Null Transaction
+1482,3,Null Transaction
+1482,2,Null Transaction
+1482,1,Null Transaction
+1483,4,Buy
+1483,3,Null Transaction
+1483,2,Null Transaction
+1483,1,Null Transaction
+1480,4,Null Transaction
+1480,3,Null Transaction
+1480,2,Null Transaction
+1480,1,Null Transaction
+1481,4,Null Transaction
+1481,3,Null Transaction
+1481,2,Buy
+1481,1,Buy
+1482,4,Null Transaction
+1482,3,Null Transaction
+1482,2,Null Transaction
+1482,1,Null Transaction
+1486,4,Null Transaction
+1486,3,Null Transaction
+1486,2,Null Transaction
+1486,1,Null Transaction
+1484,4,Null Transaction
+1484,3,Buy
+1484,2,Null Transaction
+1484,1,Buy
+1483,4,Null Transaction
+1483,3,Buy
+1483,2,Null Transaction
+1483,1,Null Transaction
+1489,4,Null Transaction
+1489,3,Null Transaction
+1489,2,Buy
+1489,1,Null Transaction
+1493,4,Buy
+1493,3,Null Transaction
+1493,2,Buy
+1493,1,Buy
+1485,4,Null Transaction
+1485,3,Null Transaction
+1485,2,Null Transaction
+1485,1,Buy
+1495,4,Null Transaction
+1495,3,Null Transaction
+1495,2,Null Transaction
+1495,1,Null Transaction
+1489,4,Null Transaction
+1489,3,Null Transaction
+1489,2,Null Transaction
+1489,1,Buy
+1496,4,Null Transaction
+1496,3,Null Transaction
+1496,2,Null Transaction
+1496,1,Null Transaction
+1493,4,Buy
+1493,3,Buy
+1493,2,Null Transaction
+1493,1,Buy
+1490,4,Null Transaction
+1490,3,Null Transaction
+1490,2,Null Transaction
+1490,1,Null Transaction
+1494,4,Null Transaction
+1494,3,Null Transaction
+1494,2,Null Transaction
+1494,1,Buy
+1492,4,Null Transaction
+1492,3,Null Transaction
+1492,2,Null Transaction
+1492,1,Null Transaction
+1501,4,Null Transaction
+1501,3,Null Transaction
+1501,2,Null Transaction
+1501,1,Null Transaction
+1502,4,Null Transaction
+1502,3,Null Transaction
+1502,2,Buy
+1502,1,Null Transaction
+1498,4,Null Transaction
+1498,3,Null Transaction
+1498,2,Null Transaction
+1498,1,Buy
+1500,4,Null Transaction
+1500,3,Null Transaction
+1500,2,Null Transaction
+1500,1,Null Transaction
+1497,4,Null Transaction
+1497,3,Null Transaction
+1497,2,Buy
+1497,1,Buy
+1501,4,Null Transaction
+1501,3,Null Transaction
+1501,2,Null Transaction
+1501,1,Buy
+1506,4,Null Transaction
+1506,3,Buy
+1506,2,Null Transaction
+1506,1,Null Transaction
+1507,4,Null Transaction
+1507,3,Null Transaction
+1507,2,Buy
+1507,1,Null Transaction
+1506,4,Null Transaction
+1506,3,Null Transaction
+1506,2,Null Transaction
+1506,1,Null Transaction
+1511,4,Null Transaction
+1511,3,Buy
+1511,2,Buy
+1511,1,Null Transaction
+1503,4,Null Transaction
+1503,3,Null Transaction
+1503,2,Buy
+1503,1,Null Transaction
+1509,4,Null Transaction
+1509,3,Buy
+1509,2,Null Transaction
+1509,1,Null Transaction
+1511,4,Buy
+1511,3,Null Transaction
+1511,2,Null Transaction
+1511,1,Null Transaction
+1514,4,Buy
+1514,3,Null Transaction
+1514,2,Buy
+1514,1,Buy
+1512,4,Null Transaction
+1512,3,Null Transaction
+1512,2,Null Transaction
+1512,1,Null Transaction
+1509,4,Null Transaction
+1509,3,Buy
+1509,2,Null Transaction
+1509,1,Null Transaction
+1515,4,Null Transaction
+1515,3,Null Transaction
+1515,2,Null Transaction
+1515,1,Null Transaction
+1513,4,Null Transaction
+1513,3,Buy
+1513,2,Null Transaction
+1513,1,Buy
+1515,4,Null Transaction
+1515,3,Null Transaction
+1515,2,Null Transaction
+1515,1,Null Transaction
+1518,4,Null Transaction
+1518,3,Null Transaction
+1518,2,Null Transaction
+1518,1,Buy
+1521,4,Null Transaction
+1521,3,Buy
+1521,2,Null Transaction
+1521,1,Buy
+1520,4,Null Transaction
+1520,3,Null Transaction
+1520,2,Null Transaction
+1520,1,Null Transaction
+1519,4,Null Transaction
+1519,3,Buy
+1519,2,Null Transaction
+1519,1,Null Transaction
+1524,4,Null Transaction
+1524,3,Buy
+1524,2,Null Transaction
+1524,1,Null Transaction
+1518,4,Null Transaction
+1518,3,Null Transaction
+1518,2,Null Transaction
+1518,1,Null Transaction
+1525,4,Null Transaction
+1525,3,Buy
+1525,2,Null Transaction
+1525,1,Null Transaction
+1523,4,Null Transaction
+1523,3,Null Transaction
+1523,2,Buy
+1523,1,Null Transaction
+1522,4,Null Transaction
+1522,3,Null Transaction
+1522,2,Null Transaction
+1522,1,Null Transaction
+1526,4,Null Transaction
+1526,3,Null Transaction
+1526,2,Buy
+1526,1,Buy
+1526,4,Null Transaction
+1526,3,Null Transaction
+1526,2,Null Transaction
+1526,1,Null Transaction
+1527,4,Null Transaction
+1527,3,Null Transaction
+1527,2,Buy
+1527,1,Null Transaction
+1524,4,Buy
+1524,3,Null Transaction
+1524,2,Buy
+1524,1,Null Transaction
+1532,4,Null Transaction
+1532,3,Buy
+1532,2,Null Transaction
+1532,1,Null Transaction
+1535,4,Buy
+1535,3,Null Transaction
+1535,2,Null Transaction
+1535,1,Null Transaction
+1531,4,Null Transaction
+1531,3,Null Transaction
+1531,2,Buy
+1531,1,Null Transaction
+1529,4,Null Transaction
+1529,3,Null Transaction
+1529,2,Buy
+1529,1,Buy
+1534,4,Null Transaction
+1534,3,Buy
+1534,2,Null Transaction
+1534,1,Null Transaction
+1535,4,Null Transaction
+1535,3,Null Transaction
+1535,2,Buy
+1535,1,Null Transaction
+1533,4,Null Transaction
+1533,3,Buy
+1533,2,Buy
+1533,1,Null Transaction
+1539,4,Null Transaction
+1539,3,Buy
+1539,2,Buy
+1539,1,Null Transaction
+1538,4,Null Transaction
+1538,3,Null Transaction
+1538,2,Buy
+1538,1,Buy
+1534,4,Null Transaction
+1534,3,Null Transaction
+1534,2,Null Transaction
+1534,1,Null Transaction
+1542,4,Buy
+1542,3,Buy
+1542,2,Null Transaction
+1542,1,Null Transaction
+1545,4,Null Transaction
+1545,3,Buy
+1545,2,Null Transaction
+1545,1,Null Transaction
+1545,4,Null Transaction
+1545,3,Null Transaction
+1545,2,Null Transaction
+1545,1,Null Transaction
+1540,4,Buy
+1540,3,Null Transaction
+1540,2,Buy
+1540,1,Null Transaction
+1544,4,Null Transaction
+1544,3,Buy
+1544,2,Buy
+1544,1,Null Transaction
+1540,4,Buy
+1540,3,Null Transaction
+1540,2,Null Transaction
+1540,1,Null Transaction
+1546,4,Null Transaction
+1546,3,Null Transaction
+1546,2,Buy
+1546,1,Null Transaction
+1542,4,Null Transaction
+1542,3,Null Transaction
+1542,2,Buy
+1542,1,Null Transaction
+1543,4,Null Transaction
+1543,3,Null Transaction
+1543,2,Buy
+1543,1,Null Transaction
+1552,4,Buy
+1552,3,Null Transaction
+1552,2,Null Transaction
+1552,1,Buy
+1546,4,Buy
+1546,3,Null Transaction
+1546,2,Buy
+1546,1,Buy
+1546,4,Buy
+1546,3,Buy
+1546,2,Null Transaction
+1546,1,Buy
+1551,4,Null Transaction
+1551,3,Null Transaction
+1551,2,Null Transaction
+1551,1,Null Transaction
+1550,4,Null Transaction
+1550,3,Null Transaction
+1550,2,Buy
+1550,1,Buy
+1549,4,Buy
+1549,3,Null Transaction
+1549,2,Null Transaction
+1549,1,Null Transaction
+1550,4,Null Transaction
+1550,3,Null Transaction
+1550,2,Null Transaction
+1550,1,Null Transaction
+1552,4,Null Transaction
+1552,3,Null Transaction
+1552,2,Null Transaction
+1552,1,Null Transaction
+1557,4,Null Transaction
+1557,3,Buy
+1557,2,Null Transaction
+1557,1,Null Transaction
+1559,4,Null Transaction
+1559,3,Null Transaction
+1559,2,Null Transaction
+1559,1,Buy
+1557,4,Buy
+1557,3,Buy
+1557,2,Null Transaction
+1557,1,Buy
+1556,4,Null Transaction
+1556,3,Null Transaction
+1556,2,Null Transaction
+1556,1,Null Transaction
+1556,4,Buy
+1556,3,Buy
+1556,2,Null Transaction
+1556,1,Null Transaction
+1557,4,Null Transaction
+1557,3,Null Transaction
+1557,2,Null Transaction
+1557,1,Null Transaction
+1565,4,Null Transaction
+1565,3,Buy
+1565,2,Null Transaction
+1565,1,Buy
+1564,4,Null Transaction
+1564,3,Null Transaction
+1564,2,Buy
+1564,1,Null Transaction
+1562,4,Null Transaction
+1562,3,Null Transaction
+1562,2,Null Transaction
+1562,1,Null Transaction
+1570,4,Null Transaction
+1570,3,Buy
+1570,2,Null Transaction
+1570,1,Buy
+1566,4,Null Transaction
+1566,3,Buy
+1566,2,Null Transaction
+1566,1,Null Transaction
+1568,4,Buy
+1568,3,Null Transaction
+1568,2,Null Transaction
+1568,1,Null Transaction
+1568,4,Buy
+1568,3,Null Transaction
+1568,2,Null Transaction
+1568,1,Null Transaction
+1567,4,Null Transaction
+1567,3,Null Transaction
+1567,2,Null Transaction
+1567,1,Null Transaction
+1574,4,Null Transaction
+1574,3,Buy
+1574,2,Null Transaction
+1574,1,Buy
+1570,4,Buy
+1570,3,Null Transaction
+1570,2,Null Transaction
+1570,1,Buy
+1575,4,Null Transaction
+1575,3,Null Transaction
+1575,2,Null Transaction
+1575,1,Null Transaction
+1571,4,Null Transaction
+1571,3,Buy
+1571,2,Null Transaction
+1571,1,Null Transaction
+1573,4,Null Transaction
+1573,3,Null Transaction
+1573,2,Null Transaction
+1573,1,Null Transaction
+1580,4,Null Transaction
+1580,3,Buy
+1580,2,Null Transaction
+1580,1,Null Transaction
+1578,4,Null Transaction
+1578,3,Null Transaction
+1578,2,Null Transaction
+1578,1,Null Transaction
+1579,4,Null Transaction
+1579,3,Null Transaction
+1579,2,Null Transaction
+1579,1,Buy
+1577,4,Null Transaction
+1577,3,Null Transaction
+1577,2,Null Transaction
+1577,1,Buy
+1581,4,Buy
+1581,3,Buy
+1581,2,Null Transaction
+1581,1,Null Transaction
+1576,4,Null Transaction
+1576,3,Null Transaction
+1576,2,Null Transaction
+1576,1,Null Transaction
+1578,4,Null Transaction
+1578,3,Null Transaction
+1578,2,Null Transaction
+1578,1,Null Transaction
+1580,4,Null Transaction
+1580,3,Null Transaction
+1580,2,Null Transaction
+1580,1,Null Transaction
+1581,4,Null Transaction
+1581,3,Null Transaction
+1581,2,Null Transaction
+1581,1,Null Transaction
+1583,4,Null Transaction
+1583,3,Null Transaction
+1583,2,Null Transaction
+1583,1,Null Transaction
+1589,4,Null Transaction
+1589,3,Null Transaction
+1589,2,Null Transaction
+1589,1,Buy
+1584,4,Null Transaction
+1584,3,Null Transaction
+1584,2,Null Transaction
+1584,1,Null Transaction
+1585,4,Buy
+1585,3,Null Transaction
+1585,2,Null Transaction
+1585,1,Null Transaction
+1586,4,Buy
+1586,3,Null Transaction
+1586,2,Null Transaction
+1586,1,Null Transaction
+1590,4,Buy
+1590,3,Null Transaction
+1590,2,Buy
+1590,1,Null Transaction
+1587,4,Buy
+1587,3,Buy
+1587,2,Null Transaction
+1587,1,Null Transaction
+1592,4,Buy
+1592,3,Null Transaction
+1592,2,Buy
+1592,1,Null Transaction
+1597,4,Null Transaction
+1597,3,Null Transaction
+1597,2,Null Transaction
+1597,1,Null Transaction
+1596,4,Null Transaction
+1596,3,Null Transaction
+1596,2,Buy
+1596,1,Buy
+1590,4,Buy
+1590,3,Buy
+1590,2,Null Transaction
+1590,1,Null Transaction
+1595,4,Buy
+1595,3,Null Transaction
+1595,2,Null Transaction
+1595,1,Null Transaction
+1594,4,Null Transaction
+1594,3,Null Transaction
+1594,2,Null Transaction
+1594,1,Null Transaction
+1597,4,Buy
+1597,3,Null Transaction
+1597,2,Null Transaction
+1597,1,Null Transaction
+1595,4,Null Transaction
+1595,3,Null Transaction
+1595,2,Null Transaction
+1595,1,Null Transaction
+1601,4,Null Transaction
+1601,3,Buy
+1601,2,Null Transaction
+1601,1,Buy
+1596,4,Null Transaction
+1596,3,Null Transaction
+1596,2,Null Transaction
+1596,1,Null Transaction
+1602,4,Null Transaction
+1602,3,Null Transaction
+1602,2,Null Transaction
+1602,1,Null Transaction
+1603,4,Null Transaction
+1603,3,Null Transaction
+1603,2,Null Transaction
+1603,1,Null Transaction
+1606,4,Null Transaction
+1606,3,Buy
+1606,2,Buy
+1606,1,Null Transaction
+1605,4,Null Transaction
+1605,3,Null Transaction
+1605,2,Null Transaction
+1605,1,Null Transaction
+1603,4,Null Transaction
+1603,3,Buy
+1603,2,Buy
+1603,1,Buy
+1607,4,Null Transaction
+1607,3,Null Transaction
+1607,2,Null Transaction
+1607,1,Null Transaction
+1611,4,Null Transaction
+1611,3,Null Transaction
+1611,2,Null Transaction
+1611,1,Null Transaction
+1605,4,Null Transaction
+1605,3,Null Transaction
+1605,2,Buy
+1605,1,Null Transaction
+1607,4,Null Transaction
+1607,3,Null Transaction
+1607,2,Buy
+1607,1,Null Transaction
+1614,4,Null Transaction
+1614,3,Null Transaction
+1614,2,Buy
+1614,1,Null Transaction
+1615,4,Null Transaction
+1615,3,Buy
+1615,2,Null Transaction
+1615,1,Null Transaction
+1615,4,Buy
+1615,3,Null Transaction
+1615,2,Null Transaction
+1615,1,Null Transaction
+1615,4,Null Transaction
+1615,3,Null Transaction
+1615,2,Buy
+1615,1,Null Transaction
+1611,4,Buy
+1611,3,Null Transaction
+1611,2,Buy
+1611,1,Buy
+1615,4,Null Transaction
+1615,3,Null Transaction
+1615,2,Null Transaction
+1615,1,Null Transaction
+1619,4,Buy
+1619,3,Null Transaction
+1619,2,Buy
+1619,1,Null Transaction
+1618,4,Null Transaction
+1618,3,Null Transaction
+1618,2,Null Transaction
+1618,1,Null Transaction
+1621,4,Null Transaction
+1621,3,Null Transaction
+1621,2,Null Transaction
+1621,1,Null Transaction
+1616,4,Buy
+1616,3,Buy
+1616,2,Buy
+1616,1,Null Transaction
+1618,4,Buy
+1618,3,Null Transaction
+1618,2,Buy
+1618,1,Buy
+1625,4,Null Transaction
+1625,3,Buy
+1625,2,Null Transaction
+1625,1,Null Transaction
+1626,4,Buy
+1626,3,Null Transaction
+1626,2,Null Transaction
+1626,1,Null Transaction
+1626,4,Null Transaction
+1626,3,Null Transaction
+1626,2,Null Transaction
+1626,1,Null Transaction
+1629,4,Buy
+1629,3,Buy
+1629,2,Null Transaction
+1629,1,Null Transaction
+1626,4,Buy
+1626,3,Buy
+1626,2,Null Transaction
+1626,1,Null Transaction
+1625,4,Null Transaction
+1625,3,Null Transaction
+1625,2,Buy
+1625,1,Null Transaction
+1625,4,Null Transaction
+1625,3,Null Transaction
+1625,2,Null Transaction
+1625,1,Buy
+1631,4,Null Transaction
+1631,3,Null Transaction
+1631,2,Null Transaction
+1631,1,Null Transaction
+1633,4,Null Transaction
+1633,3,Null Transaction
+1633,2,Buy
+1633,1,Null Transaction
+1635,4,Null Transaction
+1635,3,Null Transaction
+1635,2,Null Transaction
+1635,1,Null Transaction
+1628,4,Null Transaction
+1628,3,Null Transaction
+1628,2,Null Transaction
+1628,1,Buy
+1637,4,Null Transaction
+1637,3,Null Transaction
+1637,2,Null Transaction
+1637,1,Null Transaction
+1635,4,Null Transaction
+1635,3,Buy
+1635,2,Buy
+1635,1,Buy
+1630,4,Buy
+1630,3,Buy
+1630,2,Null Transaction
+1630,1,Null Transaction
+1633,4,Null Transaction
+1633,3,Null Transaction
+1633,2,Null Transaction
+1633,1,Null Transaction
+1635,4,Null Transaction
+1635,3,Null Transaction
+1635,2,Buy
+1635,1,Null Transaction
+1640,4,Null Transaction
+1640,3,Null Transaction
+1640,2,Null Transaction
+1640,1,Null Transaction
+1641,4,Null Transaction
+1641,3,Null Transaction
+1641,2,Null Transaction
+1641,1,Null Transaction
+1638,4,Null Transaction
+1638,3,Null Transaction
+1638,2,Null Transaction
+1638,1,Null Transaction
+1643,4,Null Transaction
+1643,3,Null Transaction
+1643,2,Null Transaction
+1643,1,Buy
+1645,4,Null Transaction
+1645,3,Null Transaction
+1645,2,Buy
+1645,1,Null Transaction
+1644,4,Null Transaction
+1644,3,Buy
+1644,2,Null Transaction
+1644,1,Null Transaction
+1647,4,Null Transaction
+1647,3,Null Transaction
+1647,2,Null Transaction
+1647,1,Buy
+1647,4,Null Transaction
+1647,3,Null Transaction
+1647,2,Null Transaction
+1647,1,Buy
+1641,4,Null Transaction
+1641,3,Null Transaction
+1641,2,Buy
+1641,1,Null Transaction
+1645,4,Null Transaction
+1645,3,Buy
+1645,2,Buy
+1645,1,Null Transaction
+1652,4,Null Transaction
+1652,3,Null Transaction
+1652,2,Null Transaction
+1652,1,Null Transaction
+1653,4,Null Transaction
+1653,3,Buy
+1653,2,Null Transaction
+1653,1,Null Transaction
+1648,4,Null Transaction
+1648,3,Null Transaction
+1648,2,Buy
+1648,1,Buy
+1651,4,Buy
+1651,3,Null Transaction
+1651,2,Null Transaction
+1651,1,Null Transaction
+1649,4,Null Transaction
+1649,3,Null Transaction
+1649,2,Null Transaction
+1649,1,Null Transaction
+1653,4,Null Transaction
+1653,3,Null Transaction
+1653,2,Null Transaction
+1653,1,Null Transaction
+1651,4,Null Transaction
+1651,3,Null Transaction
+1651,2,Null Transaction
+1651,1,Null Transaction
+1656,4,Null Transaction
+1656,3,Null Transaction
+1656,2,Null Transaction
+1656,1,Buy
+1656,4,Buy
+1656,3,Null Transaction
+1656,2,Null Transaction
+1656,1,Null Transaction
+1652,4,Null Transaction
+1652,3,Null Transaction
+1652,2,Null Transaction
+1652,1,Null Transaction
+1661,4,Null Transaction
+1661,3,Null Transaction
+1661,2,Buy
+1661,1,Null Transaction
+1655,4,Null Transaction
+1655,3,Buy
+1655,2,Null Transaction
+1655,1,Null Transaction
+1657,4,Buy
+1657,3,Buy
+1657,2,Null Transaction
+1657,1,Null Transaction
+1660,4,Null Transaction
+1660,3,Null Transaction
+1660,2,Buy
+1660,1,Null Transaction
+1659,4,Null Transaction
+1659,3,Null Transaction
+1659,2,Null Transaction
+1659,1,Null Transaction
+1661,4,Null Transaction
+1661,3,Null Transaction
+1661,2,Null Transaction
+1661,1,Null Transaction
+1666,4,Buy
+1666,3,Null Transaction
+1666,2,Null Transaction
+1666,1,Null Transaction
+1668,4,Buy
+1668,3,Null Transaction
+1668,2,Null Transaction
+1668,1,Null Transaction
+1666,4,Null Transaction
+1666,3,Null Transaction
+1666,2,Null Transaction
+1666,1,Null Transaction
+1667,4,Null Transaction
+1667,3,Buy
+1667,2,Null Transaction
+1667,1,Null Transaction
+1669,4,Null Transaction
+1669,3,Null Transaction
+1669,2,Null Transaction
+1669,1,Buy
+1672,4,Null Transaction
+1672,3,Buy
+1672,2,Buy
+1672,1,Null Transaction
+1671,4,Buy
+1671,3,Null Transaction
+1671,2,Buy
+1671,1,Null Transaction
+1671,4,Buy
+1671,3,Buy
+1671,2,Null Transaction
+1671,1,Null Transaction
+1676,4,Null Transaction
+1676,3,Null Transaction
+1676,2,Null Transaction
+1676,1,Buy
+1669,4,Null Transaction
+1669,3,Null Transaction
+1669,2,Null Transaction
+1669,1,Null Transaction
+1677,4,Buy
+1677,3,Buy
+1677,2,Null Transaction
+1677,1,Null Transaction
+1670,4,Null Transaction
+1670,3,Null Transaction
+1670,2,Null Transaction
+1670,1,Null Transaction
+1671,4,Buy
+1671,3,Null Transaction
+1671,2,Buy
+1671,1,Null Transaction
+1675,4,Buy
+1675,3,Null Transaction
+1675,2,Null Transaction
+1675,1,Buy
+1679,4,Null Transaction
+1679,3,Null Transaction
+1679,2,Null Transaction
+1679,1,Buy
+1680,4,Null Transaction
+1680,3,Null Transaction
+1680,2,Buy
+1680,1,Null Transaction
+1683,4,Buy
+1683,3,Buy
+1683,2,Null Transaction
+1683,1,Null Transaction
+1679,4,Buy
+1679,3,Null Transaction
+1679,2,Null Transaction
+1679,1,Null Transaction
+1683,4,Null Transaction
+1683,3,Null Transaction
+1683,2,Null Transaction
+1683,1,Null Transaction
+1683,4,Null Transaction
+1683,3,Null Transaction
+1683,2,Null Transaction
+1683,1,Null Transaction
+1680,4,Null Transaction
+1680,3,Null Transaction
+1680,2,Null Transaction
+1680,1,Null Transaction
+1685,4,Buy
+1685,3,Null Transaction
+1685,2,Null Transaction
+1685,1,Buy
+1684,4,Null Transaction
+1684,3,Buy
+1684,2,Buy
+1684,1,Null Transaction
+1687,4,Null Transaction
+1687,3,Null Transaction
+1687,2,Buy
+1687,1,Null Transaction
+1691,4,Null Transaction
+1691,3,Null Transaction
+1691,2,Null Transaction
+1691,1,Buy
+1686,4,Null Transaction
+1686,3,Null Transaction
+1686,2,Null Transaction
+1686,1,Null Transaction
+1687,4,Null Transaction
+1687,3,Buy
+1687,2,Null Transaction
+1687,1,Null Transaction
+1695,4,Null Transaction
+1695,3,Null Transaction
+1695,2,Null Transaction
+1695,1,Null Transaction
+1689,4,Null Transaction
+1689,3,Null Transaction
+1689,2,Null Transaction
+1689,1,Null Transaction
+1693,4,Null Transaction
+1693,3,Null Transaction
+1693,2,Buy
+1693,1,Null Transaction
+1692,4,Null Transaction
+1692,3,Null Transaction
+1692,2,Null Transaction
+1692,1,Buy
+1695,4,Null Transaction
+1695,3,Null Transaction
+1695,2,Null Transaction
+1695,1,Buy
+1698,4,Buy
+1698,3,Null Transaction
+1698,2,Null Transaction
+1698,1,Null Transaction
+1694,4,Buy
+1694,3,Null Transaction
+1694,2,Buy
+1694,1,Null Transaction
+1700,4,Null Transaction
+1700,3,Buy
+1700,2,Null Transaction
+1700,1,Null Transaction
+1696,4,Null Transaction
+1696,3,Null Transaction
+1696,2,Buy
+1696,1,Null Transaction
+1703,4,Buy
+1703,3,Buy
+1703,2,Null Transaction
+1703,1,Null Transaction
+1697,4,Buy
+1697,3,Null Transaction
+1697,2,Null Transaction
+1697,1,Null Transaction
+1705,4,Null Transaction
+1705,3,Null Transaction
+1705,2,Null Transaction
+1705,1,Buy
+1698,4,Buy
+1698,3,Null Transaction
+1698,2,Null Transaction
+1698,1,Null Transaction
+1706,4,Null Transaction
+1706,3,Null Transaction
+1706,2,Buy
+1706,1,Null Transaction
+1705,4,Null Transaction
+1705,3,Null Transaction
+1705,2,Null Transaction
+1705,1,Null Transaction
+1701,4,Null Transaction
+1701,3,Null Transaction
+1701,2,Null Transaction
+1701,1,Null Transaction
+1710,4,Null Transaction
+1710,3,Null Transaction
+1710,2,Null Transaction
+1710,1,Null Transaction
+1705,4,Null Transaction
+1705,3,Null Transaction
+1705,2,Null Transaction
+1705,1,Buy
+1708,4,Null Transaction
+1708,3,Buy
+1708,2,Buy
+1708,1,Null Transaction
+1710,4,Buy
+1710,3,Buy
+1710,2,Buy
+1710,1,Null Transaction
+1713,4,Buy
+1713,3,Buy
+1713,2,Null Transaction
+1713,1,Null Transaction
+1709,4,Null Transaction
+1709,3,Null Transaction
+1709,2,Buy
+1709,1,Buy
+1712,4,Null Transaction
+1712,3,Null Transaction
+1712,2,Null Transaction
+1712,1,Null Transaction
+1715,4,Null Transaction
+1715,3,Null Transaction
+1715,2,Null Transaction
+1715,1,Null Transaction
+1717,4,Null Transaction
+1717,3,Buy
+1717,2,Buy
+1717,1,Null Transaction
+1714,4,Null Transaction
+1714,3,Null Transaction
+1714,2,Null Transaction
+1714,1,Null Transaction
+1718,4,Null Transaction
+1718,3,Null Transaction
+1718,2,Null Transaction
+1718,1,Buy
+1716,4,Buy
+1716,3,Null Transaction
+1716,2,Null Transaction
+1716,1,Buy
+1715,4,Buy
+1715,3,Null Transaction
+1715,2,Null Transaction
+1715,1,Buy
+1715,4,Null Transaction
+1715,3,Null Transaction
+1715,2,Null Transaction
+1715,1,Null Transaction
+1721,4,Null Transaction
+1721,3,Null Transaction
+1721,2,Null Transaction
+1721,1,Null Transaction
+1720,4,Null Transaction
+1720,3,Null Transaction
+1720,2,Null Transaction
+1720,1,Null Transaction
+1724,4,Null Transaction
+1724,3,Null Transaction
+1724,2,Null Transaction
+1724,1,Null Transaction
+1719,4,Null Transaction
+1719,3,Null Transaction
+1719,2,Null Transaction
+1719,1,Null Transaction
+1729,4,Null Transaction
+1729,3,Buy
+1729,2,Null Transaction
+1729,1,Null Transaction
+1728,4,Null Transaction
+1728,3,Null Transaction
+1728,2,Null Transaction
+1728,1,Null Transaction
+1726,4,Null Transaction
+1726,3,Buy
+1726,2,Null Transaction
+1726,1,Buy
+1727,4,Null Transaction
+1727,3,Null Transaction
+1727,2,Buy
+1727,1,Null Transaction
+1725,4,Null Transaction
+1725,3,Buy
+1725,2,Null Transaction
+1725,1,Null Transaction
+1731,4,Null Transaction
+1731,3,Null Transaction
+1731,2,Null Transaction
+1731,1,Null Transaction
+1730,4,Null Transaction
+1730,3,Null Transaction
+1730,2,Null Transaction
+1730,1,Null Transaction
+1736,4,Null Transaction
+1736,3,Buy
+1736,2,Null Transaction
+1736,1,Null Transaction
+1734,4,Buy
+1734,3,Buy
+1734,2,Null Transaction
+1734,1,Null Transaction
+1735,4,Null Transaction
+1735,3,Null Transaction
+1735,2,Null Transaction
+1735,1,Null Transaction
+1734,4,Null Transaction
+1734,3,Null Transaction
+1734,2,Buy
+1734,1,Null Transaction
+1736,4,Null Transaction
+1736,3,Null Transaction
+1736,2,Null Transaction
+1736,1,Null Transaction
+1734,4,Null Transaction
+1734,3,Null Transaction
+1734,2,Null Transaction
+1734,1,Buy
+1738,4,Null Transaction
+1738,3,Buy
+1738,2,Null Transaction
+1738,1,Null Transaction
+1734,4,Buy
+1734,3,Buy
+1734,2,Buy
+1734,1,Buy
+1739,4,Null Transaction
+1739,3,Null Transaction
+1739,2,Null Transaction
+1739,1,Buy
+1737,4,Null Transaction
+1737,3,Null Transaction
+1737,2,Buy
+1737,1,Null Transaction
+1746,4,Null Transaction
+1746,3,Null Transaction
+1746,2,Null Transaction
+1746,1,Null Transaction
+1744,4,Null Transaction
+1744,3,Null Transaction
+1744,2,Null Transaction
+1744,1,Buy
+1747,4,Null Transaction
+1747,3,Null Transaction
+1747,2,Null Transaction
+1747,1,Buy
+1744,4,Null Transaction
+1744,3,Null Transaction
+1744,2,Null Transaction
+1744,1,Null Transaction
+1743,4,Buy
+1743,3,Buy
+1743,2,Null Transaction
+1743,1,Null Transaction
+1750,4,Null Transaction
+1750,3,Buy
+1750,2,Null Transaction
+1750,1,Null Transaction
+1745,4,Buy
+1745,3,Buy
+1745,2,Null Transaction
+1745,1,Null Transaction
+1747,4,Null Transaction
+1747,3,Null Transaction
+1747,2,Buy
+1747,1,Null Transaction
+1754,4,Null Transaction
+1754,3,Null Transaction
+1754,2,Null Transaction
+1754,1,Null Transaction
+1755,4,Null Transaction
+1755,3,Buy
+1755,2,Null Transaction
+1755,1,Buy
+1754,4,Buy
+1754,3,Buy
+1754,2,Buy
+1754,1,Buy
+1755,4,Null Transaction
+1755,3,Null Transaction
+1755,2,Null Transaction
+1755,1,Buy
+1752,4,Null Transaction
+1752,3,Null Transaction
+1752,2,Null Transaction
+1752,1,Null Transaction
+1753,4,Buy
+1753,3,Buy
+1753,2,Null Transaction
+1753,1,Buy
+1754,4,Null Transaction
+1754,3,Buy
+1754,2,Buy
+1754,1,Buy
+1754,4,Null Transaction
+1754,3,Null Transaction
+1754,2,Null Transaction
+1754,1,Null Transaction
+1762,4,Null Transaction
+1762,3,Null Transaction
+1762,2,Null Transaction
+1762,1,Null Transaction
+1759,4,Buy
+1759,3,Null Transaction
+1759,2,Null Transaction
+1759,1,Buy
+1762,4,Null Transaction
+1762,3,Null Transaction
+1762,2,Null Transaction
+1762,1,Buy
+1765,4,Buy
+1765,3,Buy
+1765,2,Buy
+1765,1,Buy
+1758,4,Null Transaction
+1758,3,Null Transaction
+1758,2,Null Transaction
+1758,1,Null Transaction
+1766,4,Null Transaction
+1766,3,Null Transaction
+1766,2,Null Transaction
+1766,1,Null Transaction
+1768,4,Null Transaction
+1768,3,Null Transaction
+1768,2,Null Transaction
+1768,1,Null Transaction
+1761,4,Null Transaction
+1761,3,Null Transaction
+1761,2,Buy
+1761,1,Null Transaction
+1768,4,Buy
+1768,3,Null Transaction
+1768,2,Null Transaction
+1768,1,Null Transaction
+1766,4,Null Transaction
+1766,3,Null Transaction
+1766,2,Null Transaction
+1766,1,Null Transaction
+1770,4,Null Transaction
+1770,3,Null Transaction
+1770,2,Null Transaction
+1770,1,Null Transaction
+1764,4,Null Transaction
+1764,3,Buy
+1764,2,Buy
+1764,1,Null Transaction
+1767,4,Buy
+1767,3,Null Transaction
+1767,2,Buy
+1767,1,Null Transaction
+1767,4,Buy
+1767,3,Null Transaction
+1767,2,Null Transaction
+1767,1,Buy
+1771,4,Null Transaction
+1771,3,Null Transaction
+1771,2,Null Transaction
+1771,1,Buy
+1775,4,Buy
+1775,3,Null Transaction
+1775,2,Buy
+1775,1,Null Transaction
+1777,4,Null Transaction
+1777,3,Null Transaction
+1777,2,Null Transaction
+1777,1,Null Transaction
+1770,4,Null Transaction
+1770,3,Buy
+1770,2,Buy
+1770,1,Null Transaction
+1771,4,Null Transaction
+1771,3,Null Transaction
+1771,2,Null Transaction
+1771,1,Buy
+1778,4,Null Transaction
+1778,3,Buy
+1778,2,Buy
+1778,1,Null Transaction
+1779,4,Null Transaction
+1779,3,Null Transaction
+1779,2,Null Transaction
+1779,1,Buy
+1775,4,Null Transaction
+1775,3,Buy
+1775,2,Null Transaction
+1775,1,Null Transaction
+1775,4,Null Transaction
+1775,3,Null Transaction
+1775,2,Null Transaction
+1775,1,Null Transaction
+1778,4,Null Transaction
+1778,3,Null Transaction
+1778,2,Null Transaction
+1778,1,Null Transaction
+1785,4,Null Transaction
+1785,3,Null Transaction
+1785,2,Buy
+1785,1,Null Transaction
+1778,4,Null Transaction
+1778,3,Null Transaction
+1778,2,Null Transaction
+1778,1,Buy
+1788,4,Buy
+1788,3,Null Transaction
+1788,2,Null Transaction
+1788,1,Null Transaction
+1784,4,Null Transaction
+1784,3,Null Transaction
+1784,2,Null Transaction
+1784,1,Buy
+1790,4,Null Transaction
+1790,3,Null Transaction
+1790,2,Null Transaction
+1790,1,Buy
+1787,4,Null Transaction
+1787,3,Null Transaction
+1787,2,Null Transaction
+1787,1,Null Transaction
+1784,4,Null Transaction
+1784,3,Null Transaction
+1784,2,Null Transaction
+1784,1,Null Transaction
+1793,4,Null Transaction
+1793,3,Null Transaction
+1793,2,Null Transaction
+1793,1,Buy
+1792,4,Null Transaction
+1792,3,Buy
+1792,2,Null Transaction
+1792,1,Null Transaction
+1787,4,Null Transaction
+1787,3,Buy
+1787,2,Null Transaction
+1787,1,Buy
+1789,4,Null Transaction
+1789,3,Null Transaction
+1789,2,Null Transaction
+1789,1,Null Transaction
+1793,4,Null Transaction
+1793,3,Null Transaction
+1793,2,Buy
+1793,1,Null Transaction
+1798,4,Null Transaction
+1798,3,Null Transaction
+1798,2,Null Transaction
+1798,1,Null Transaction
+1792,4,Null Transaction
+1792,3,Buy
+1792,2,Buy
+1792,1,Null Transaction
+1793,4,Null Transaction
+1793,3,Buy
+1793,2,Null Transaction
+1793,1,Null Transaction
+1799,4,Buy
+1799,3,Buy
+1799,2,Null Transaction
+1799,1,Null Transaction
+1799,4,Null Transaction
+1799,3,Null Transaction
+1799,2,Null Transaction
+1799,1,Null Transaction
+1800,4,Null Transaction
+1800,3,Buy
+1800,2,Null Transaction
+1800,1,Null Transaction
+1795,4,Null Transaction
+1795,3,Null Transaction
+1795,2,Buy
+1795,1,Buy
+1804,4,Buy
+1804,3,Null Transaction
+1804,2,Null Transaction
+1804,1,Buy
+1799,4,Buy
+1799,3,Null Transaction
+1799,2,Null Transaction
+1799,1,Null Transaction
+1803,4,Buy
+1803,3,Null Transaction
+1803,2,Null Transaction
+1803,1,Null Transaction
+1804,4,Null Transaction
+1804,3,Null Transaction
+1804,2,Null Transaction
+1804,1,Null Transaction
+1800,4,Null Transaction
+1800,3,Null Transaction
+1800,2,Null Transaction
+1800,1,Null Transaction
+1804,4,Null Transaction
+1804,3,Null Transaction
+1804,2,Null Transaction
+1804,1,Null Transaction
+1805,4,Null Transaction
+1805,3,Null Transaction
+1805,2,Null Transaction
+1805,1,Buy
+1808,4,Null Transaction
+1808,3,Buy
+1808,2,Null Transaction
+1808,1,Null Transaction
+1807,4,Buy
+1807,3,Null Transaction
+1807,2,Buy
+1807,1,Null Transaction
+1811,4,Null Transaction
+1811,3,Buy
+1811,2,Null Transaction
+1811,1,Buy
+1807,4,Null Transaction
+1807,3,Buy
+1807,2,Buy
+1807,1,Null Transaction
+1814,4,Buy
+1814,3,Null Transaction
+1814,2,Buy
+1814,1,Null Transaction
+1817,4,Null Transaction
+1817,3,Buy
+1817,2,Null Transaction
+1817,1,Null Transaction
+1818,4,Buy
+1818,3,Null Transaction
+1818,2,Null Transaction
+1818,1,Null Transaction
+1817,4,Buy
+1817,3,Null Transaction
+1817,2,Null Transaction
+1817,1,Null Transaction
+1811,4,Null Transaction
+1811,3,Null Transaction
+1811,2,Null Transaction
+1811,1,Buy
+1821,4,Null Transaction
+1821,3,Null Transaction
+1821,2,Null Transaction
+1821,1,Null Transaction
+1820,4,Null Transaction
+1820,3,Buy
+1820,2,Buy
+1820,1,Null Transaction
+1821,4,Null Transaction
+1821,3,Buy
+1821,2,Buy
+1821,1,Buy
+1820,4,Null Transaction
+1820,3,Buy
+1820,2,Null Transaction
+1820,1,Buy
+1819,4,Null Transaction
+1819,3,Null Transaction
+1819,2,Null Transaction
+1819,1,Buy
+1820,4,Buy
+1820,3,Buy
+1820,2,Buy
+1820,1,Null Transaction
+1819,4,Buy
+1819,3,Null Transaction
+1819,2,Buy
+1819,1,Null Transaction
+1823,4,Null Transaction
+1823,3,Null Transaction
+1823,2,Null Transaction
+1823,1,Buy
+1825,4,Null Transaction
+1825,3,Null Transaction
+1825,2,Null Transaction
+1825,1,Null Transaction
+1825,4,Null Transaction
+1825,3,Buy
+1825,2,Buy
+1825,1,Null Transaction
+1827,4,Null Transaction
+1827,3,Null Transaction
+1827,2,Null Transaction
+1827,1,Null Transaction
+1828,4,Null Transaction
+1828,3,Null Transaction
+1828,2,Null Transaction
+1828,1,Null Transaction
+1826,4,Null Transaction
+1826,3,Null Transaction
+1826,2,Null Transaction
+1826,1,Null Transaction
+1825,4,Null Transaction
+1825,3,Null Transaction
+1825,2,Buy
+1825,1,Null Transaction
+1828,4,Null Transaction
+1828,3,Null Transaction
+1828,2,Null Transaction
+1828,1,Null Transaction
+1829,4,Null Transaction
+1829,3,Null Transaction
+1829,2,Buy
+1829,1,Null Transaction
+1830,4,Null Transaction
+1830,3,Null Transaction
+1830,2,Null Transaction
+1830,1,Buy
+1837,4,Null Transaction
+1837,3,Null Transaction
+1837,2,Buy
+1837,1,Null Transaction
+1830,4,Null Transaction
+1830,3,Null Transaction
+1830,2,Null Transaction
+1830,1,Null Transaction
+1836,4,Null Transaction
+1836,3,Null Transaction
+1836,2,Null Transaction
+1836,1,Null Transaction
+1841,4,Null Transaction
+1841,3,Null Transaction
+1841,2,Null Transaction
+1841,1,Buy
+1836,4,Null Transaction
+1836,3,Null Transaction
+1836,2,Null Transaction
+1836,1,Null Transaction
+1839,4,Null Transaction
+1839,3,Null Transaction
+1839,2,Null Transaction
+1839,1,Null Transaction
+1839,4,Buy
+1839,3,Buy
+1839,2,Null Transaction
+1839,1,Null Transaction
+1841,4,Null Transaction
+1841,3,Null Transaction
+1841,2,Null Transaction
+1841,1,Null Transaction
+1843,4,Buy
+1843,3,Null Transaction
+1843,2,Null Transaction
+1843,1,Null Transaction
+1846,4,Buy
+1846,3,Buy
+1846,2,Buy
+1846,1,Null Transaction
+1842,4,Null Transaction
+1842,3,Null Transaction
+1842,2,Null Transaction
+1842,1,Buy
+1847,4,Buy
+1847,3,Buy
+1847,2,Null Transaction
+1847,1,Null Transaction
+1841,4,Null Transaction
+1841,3,Null Transaction
+1841,2,Null Transaction
+1841,1,Null Transaction
+1846,4,Null Transaction
+1846,3,Buy
+1846,2,Null Transaction
+1846,1,Buy
+1852,4,Null Transaction
+1852,3,Null Transaction
+1852,2,Null Transaction
+1852,1,Null Transaction
+1845,4,Buy
+1845,3,Null Transaction
+1845,2,Buy
+1845,1,Buy
+1853,4,Null Transaction
+1853,3,Null Transaction
+1853,2,Buy
+1853,1,Null Transaction
+1850,4,Null Transaction
+1850,3,Null Transaction
+1850,2,Null Transaction
+1850,1,Null Transaction
+1856,4,Null Transaction
+1856,3,Null Transaction
+1856,2,Null Transaction
+1856,1,Null Transaction
+1854,4,Null Transaction
+1854,3,Buy
+1854,2,Buy
+1854,1,Null Transaction
+1852,4,Null Transaction
+1852,3,Null Transaction
+1852,2,Null Transaction
+1852,1,Null Transaction
+1852,4,Null Transaction
+1852,3,Null Transaction
+1852,2,Null Transaction
+1852,1,Null Transaction
+1854,4,Null Transaction
+1854,3,Null Transaction
+1854,2,Null Transaction
+1854,1,Null Transaction
+1856,4,Null Transaction
+1856,3,Null Transaction
+1856,2,Null Transaction
+1856,1,Null Transaction
+1858,4,Null Transaction
+1858,3,Null Transaction
+1858,2,Null Transaction
+1858,1,Null Transaction
+1861,4,Null Transaction
+1861,3,Null Transaction
+1861,2,Null Transaction
+1861,1,Null Transaction
+1856,4,Null Transaction
+1856,3,Null Transaction
+1856,2,Null Transaction
+1856,1,Null Transaction
+1857,4,Buy
+1857,3,Null Transaction
+1857,2,Null Transaction
+1857,1,Null Transaction
+1865,4,Null Transaction
+1865,3,Null Transaction
+1865,2,Null Transaction
+1865,1,Null Transaction
+1861,4,Buy
+1861,3,Buy
+1861,2,Null Transaction
+1861,1,Null Transaction
+1859,4,Null Transaction
+1859,3,Null Transaction
+1859,2,Null Transaction
+1859,1,Null Transaction
+1861,4,Null Transaction
+1861,3,Null Transaction
+1861,2,Null Transaction
+1861,1,Buy
+1868,4,Null Transaction
+1868,3,Buy
+1868,2,Null Transaction
+1868,1,Buy
+1868,4,Null Transaction
+1868,3,Buy
+1868,2,Null Transaction
+1868,1,Null Transaction
+1869,4,Buy
+1869,3,Null Transaction
+1869,2,Null Transaction
+1869,1,Buy
+1868,4,Null Transaction
+1868,3,Buy
+1868,2,Buy
+1868,1,Null Transaction
+1874,4,Null Transaction
+1874,3,Null Transaction
+1874,2,Null Transaction
+1874,1,Buy
+1874,4,Null Transaction
+1874,3,Null Transaction
+1874,2,Null Transaction
+1874,1,Null Transaction
+1872,4,Null Transaction
+1872,3,Null Transaction
+1872,2,Null Transaction
+1872,1,Buy
+1870,4,Null Transaction
+1870,3,Null Transaction
+1870,2,Null Transaction
+1870,1,Null Transaction
+1871,4,Null Transaction
+1871,3,Null Transaction
+1871,2,Buy
+1871,1,Null Transaction
+1878,4,Buy
+1878,3,Buy
+1878,2,Null Transaction
+1878,1,Null Transaction
+1878,4,Null Transaction
+1878,3,Null Transaction
+1878,2,Null Transaction
+1878,1,Null Transaction
+1875,4,Buy
+1875,3,Null Transaction
+1875,2,Null Transaction
+1875,1,Null Transaction
+1874,4,Null Transaction
+1874,3,Null Transaction
+1874,2,Buy
+1874,1,Null Transaction
+1882,4,Buy
+1882,3,Null Transaction
+1882,2,Null Transaction
+1882,1,Null Transaction
+1878,4,Null Transaction
+1878,3,Null Transaction
+1878,2,Null Transaction
+1878,1,Buy
+1879,4,Null Transaction
+1879,3,Buy
+1879,2,Null Transaction
+1879,1,Null Transaction
+1884,4,Null Transaction
+1884,3,Buy
+1884,2,Null Transaction
+1884,1,Buy
+1884,4,Null Transaction
+1884,3,Buy
+1884,2,Buy
+1884,1,Null Transaction
+1885,4,Buy
+1885,3,Buy
+1885,2,Null Transaction
+1885,1,Buy
+1883,4,Null Transaction
+1883,3,Buy
+1883,2,Null Transaction
+1883,1,Buy
+1888,4,Null Transaction
+1888,3,Null Transaction
+1888,2,Null Transaction
+1888,1,Null Transaction
+1887,4,Null Transaction
+1887,3,Null Transaction
+1887,2,Buy
+1887,1,Null Transaction
+1885,4,Null Transaction
+1885,3,Buy
+1885,2,Buy
+1885,1,Buy
+1887,4,Null Transaction
+1887,3,Null Transaction
+1887,2,Null Transaction
+1887,1,Null Transaction
+1888,4,Null Transaction
+1888,3,Null Transaction
+1888,2,Null Transaction
+1888,1,Null Transaction
+1893,4,Null Transaction
+1893,3,Null Transaction
+1893,2,Buy
+1893,1,Null Transaction
+1893,4,Null Transaction
+1893,3,Null Transaction
+1893,2,Null Transaction
+1893,1,Buy
+1889,4,Null Transaction
+1889,3,Buy
+1889,2,Null Transaction
+1889,1,Null Transaction
+1896,4,Null Transaction
+1896,3,Null Transaction
+1896,2,Null Transaction
+1896,1,Null Transaction
+1895,4,Null Transaction
+1895,3,Buy
+1895,2,Null Transaction
+1895,1,Buy
+1894,4,Null Transaction
+1894,3,Buy
+1894,2,Null Transaction
+1894,1,Null Transaction
+1892,4,Null Transaction
+1892,3,Buy
+1892,2,Null Transaction
+1892,1,Null Transaction
+1896,4,Null Transaction
+1896,3,Buy
+1896,2,Null Transaction
+1896,1,Null Transaction
+1901,4,Null Transaction
+1901,3,Null Transaction
+1901,2,Null Transaction
+1901,1,Buy
+1897,4,Null Transaction
+1897,3,Null Transaction
+1897,2,Null Transaction
+1897,1,Null Transaction
+1898,4,Buy
+1898,3,Buy
+1898,2,Null Transaction
+1898,1,Null Transaction
+1906,4,Null Transaction
+1906,3,Null Transaction
+1906,2,Buy
+1906,1,Buy
+1903,4,Buy
+1903,3,Null Transaction
+1903,2,Null Transaction
+1903,1,Null Transaction
+1900,4,Null Transaction
+1900,3,Buy
+1900,2,Buy
+1900,1,Null Transaction
+1900,4,Null Transaction
+1900,3,Buy
+1900,2,Buy
+1900,1,Null Transaction
+1907,4,Null Transaction
+1907,3,Null Transaction
+1907,2,Null Transaction
+1907,1,Buy
+1907,4,Null Transaction
+1907,3,Buy
+1907,2,Null Transaction
+1907,1,Null Transaction
+1912,4,Null Transaction
+1912,3,Buy
+1912,2,Null Transaction
+1912,1,Null Transaction
+1904,4,Buy
+1904,3,Buy
+1904,2,Null Transaction
+1904,1,Buy
+1905,4,Null Transaction
+1905,3,Null Transaction
+1905,2,Null Transaction
+1905,1,Null Transaction
+1909,4,Buy
+1909,3,Null Transaction
+1909,2,Null Transaction
+1909,1,Null Transaction
+1907,4,Null Transaction
+1907,3,Null Transaction
+1907,2,Null Transaction
+1907,1,Null Transaction
+1916,4,Null Transaction
+1916,3,Null Transaction
+1916,2,Buy
+1916,1,Null Transaction
+1912,4,Null Transaction
+1912,3,Buy
+1912,2,Null Transaction
+1912,1,Null Transaction
+1915,4,Buy
+1915,3,Null Transaction
+1915,2,Buy
+1915,1,Null Transaction
+1920,4,Null Transaction
+1920,3,Null Transaction
+1920,2,Null Transaction
+1920,1,Null Transaction
+1914,4,Null Transaction
+1914,3,Null Transaction
+1914,2,Null Transaction
+1914,1,Null Transaction
+1918,4,Buy
+1918,3,Null Transaction
+1918,2,Null Transaction
+1918,1,Null Transaction
+1921,4,Null Transaction
+1921,3,Buy
+1921,2,Null Transaction
+1921,1,Null Transaction
+1919,4,Null Transaction
+1919,3,Null Transaction
+1919,2,Null Transaction
+1919,1,Null Transaction
+1925,4,Null Transaction
+1925,3,Null Transaction
+1925,2,Null Transaction
+1925,1,Null Transaction
+1923,4,Buy
+1923,3,Buy
+1923,2,Null Transaction
+1923,1,Null Transaction
+1922,4,Buy
+1922,3,Null Transaction
+1922,2,Buy
+1922,1,Null Transaction
+1924,4,Null Transaction
+1924,3,Buy
+1924,2,Buy
+1924,1,Null Transaction
+1926,4,Null Transaction
+1926,3,Null Transaction
+1926,2,Null Transaction
+1926,1,Null Transaction
+1923,4,Buy
+1923,3,Buy
+1923,2,Buy
+1923,1,Null Transaction
+1924,4,Null Transaction
+1924,3,Buy
+1924,2,Buy
+1924,1,Null Transaction
+1930,4,Null Transaction
+1930,3,Null Transaction
+1930,2,Null Transaction
+1930,1,Buy
+1929,4,Null Transaction
+1929,3,Null Transaction
+1929,2,Null Transaction
+1929,1,Null Transaction
+1925,4,Null Transaction
+1925,3,Null Transaction
+1925,2,Null Transaction
+1925,1,Null Transaction
+1935,4,Null Transaction
+1935,3,Buy
+1935,2,Null Transaction
+1935,1,Null Transaction
+1935,4,Null Transaction
+1935,3,Null Transaction
+1935,2,Buy
+1935,1,Null Transaction
+1930,4,Null Transaction
+1930,3,Null Transaction
+1930,2,Null Transaction
+1930,1,Null Transaction
+1934,4,Buy
+1934,3,Null Transaction
+1934,2,Null Transaction
+1934,1,Buy
+1933,4,Null Transaction
+1933,3,Null Transaction
+1933,2,Null Transaction
+1933,1,Null Transaction
+1934,4,Null Transaction
+1934,3,Null Transaction
+1934,2,Null Transaction
+1934,1,Buy
+1938,4,Null Transaction
+1938,3,Buy
+1938,2,Null Transaction
+1938,1,Buy
+1935,4,Null Transaction
+1935,3,Null Transaction
+1935,2,Null Transaction
+1935,1,Null Transaction
+1935,4,Null Transaction
+1935,3,Null Transaction
+1935,2,Null Transaction
+1935,1,Buy
+1938,4,Null Transaction
+1938,3,Null Transaction
+1938,2,Null Transaction
+1938,1,Null Transaction
+1938,4,Buy
+1938,3,Null Transaction
+1938,2,Buy
+1938,1,Null Transaction
+1938,4,Null Transaction
+1938,3,Null Transaction
+1938,2,Null Transaction
+1938,1,Null Transaction
+1947,4,Null Transaction
+1947,3,Null Transaction
+1947,2,Null Transaction
+1947,1,Null Transaction
+1943,4,Null Transaction
+1943,3,Buy
+1943,2,Null Transaction
+1943,1,Null Transaction
+1943,4,Null Transaction
+1943,3,Null Transaction
+1943,2,Buy
+1943,1,Buy
+1947,4,Null Transaction
+1947,3,Null Transaction
+1947,2,Null Transaction
+1947,1,Null Transaction
+1951,4,Null Transaction
+1951,3,Null Transaction
+1951,2,Null Transaction
+1951,1,Null Transaction
+1943,4,Null Transaction
+1943,3,Null Transaction
+1943,2,Buy
+1943,1,Null Transaction
+1951,4,Null Transaction
+1951,3,Null Transaction
+1951,2,Buy
+1951,1,Null Transaction
+1954,4,Null Transaction
+1954,3,Buy
+1954,2,Null Transaction
+1954,1,Null Transaction
+1951,4,Null Transaction
+1951,3,Buy
+1951,2,Buy
+1951,1,Null Transaction
+1949,4,Null Transaction
+1949,3,Null Transaction
+1949,2,Null Transaction
+1949,1,Buy
+1951,4,Buy
+1951,3,Null Transaction
+1951,2,Null Transaction
+1951,1,Buy
+1951,4,Buy
+1951,3,Null Transaction
+1951,2,Null Transaction
+1951,1,Buy
+1953,4,Null Transaction
+1953,3,Buy
+1953,2,Null Transaction
+1953,1,Null Transaction
+1952,4,Null Transaction
+1952,3,Null Transaction
+1952,2,Null Transaction
+1952,1,Null Transaction
+1957,4,Null Transaction
+1957,3,Null Transaction
+1957,2,Null Transaction
+1957,1,Null Transaction
+1957,4,Null Transaction
+1957,3,Null Transaction
+1957,2,Null Transaction
+1957,1,Null Transaction
+1957,4,Null Transaction
+1957,3,Null Transaction
+1957,2,Null Transaction
+1957,1,Null Transaction
+1959,4,Null Transaction
+1959,3,Null Transaction
+1959,2,Null Transaction
+1959,1,Null Transaction
+1958,4,Null Transaction
+1958,3,Null Transaction
+1958,2,Buy
+1958,1,Null Transaction
+1962,4,Null Transaction
+1962,3,Buy
+1962,2,Buy
+1962,1,Null Transaction
+1959,4,Null Transaction
+1959,3,Null Transaction
+1959,2,Buy
+1959,1,Buy
+1964,4,Null Transaction
+1964,3,Null Transaction
+1964,2,Buy
+1964,1,Null Transaction
+1966,4,Buy
+1966,3,Null Transaction
+1966,2,Null Transaction
+1966,1,Null Transaction
+1963,4,Null Transaction
+1963,3,Null Transaction
+1963,2,Buy
+1963,1,Null Transaction
+1966,4,Buy
+1966,3,Buy
+1966,2,Null Transaction
+1966,1,Buy
+1970,4,Null Transaction
+1970,3,Null Transaction
+1970,2,Null Transaction
+1970,1,Null Transaction
+1966,4,Null Transaction
+1966,3,Null Transaction
+1966,2,Null Transaction
+1966,1,Buy
+1971,4,Buy
+1971,3,Null Transaction
+1971,2,Null Transaction
+1971,1,Buy
+1972,4,Null Transaction
+1972,3,Buy
+1972,2,Null Transaction
+1972,1,Buy
+1968,4,Buy
+1968,3,Null Transaction
+1968,2,Null Transaction
+1968,1,Null Transaction
+1973,4,Buy
+1973,3,Null Transaction
+1973,2,Buy
+1973,1,Null Transaction
+1975,4,Null Transaction
+1975,3,Null Transaction
+1975,2,Null Transaction
+1975,1,Null Transaction
+1978,4,Null Transaction
+1978,3,Buy
+1978,2,Buy
+1978,1,Null Transaction
+1972,4,Null Transaction
+1972,3,Null Transaction
+1972,2,Null Transaction
+1972,1,Null Transaction
+1979,4,Null Transaction
+1979,3,Null Transaction
+1979,2,Buy
+1979,1,Null Transaction
+1980,4,Buy
+1980,3,Null Transaction
+1980,2,Null Transaction
+1980,1,Null Transaction
+1981,4,Null Transaction
+1981,3,Null Transaction
+1981,2,Null Transaction
+1981,1,Null Transaction
+1982,4,Buy
+1982,3,Null Transaction
+1982,2,Null Transaction
+1982,1,Null Transaction
+1976,4,Null Transaction
+1976,3,Null Transaction
+1976,2,Null Transaction
+1976,1,Null Transaction
+1977,4,Buy
+1977,3,Null Transaction
+1977,2,Buy
+1977,1,Buy
+1983,4,Null Transaction
+1983,3,Buy
+1983,2,Null Transaction
+1983,1,Buy
+1981,4,Null Transaction
+1981,3,Buy
+1981,2,Buy
+1981,1,Null Transaction
+1982,4,Null Transaction
+1982,3,Null Transaction
+1982,2,Null Transaction
+1982,1,Null Transaction
+1985,4,Buy
+1985,3,Null Transaction
+1985,2,Null Transaction
+1985,1,Buy
+1982,4,Buy
+1982,3,Null Transaction
+1982,2,Null Transaction
+1982,1,Buy
+1986,4,Null Transaction
+1986,3,Null Transaction
+1986,2,Null Transaction
+1986,1,Null Transaction
+1987,4,Null Transaction
+1987,3,Null Transaction
+1987,2,Null Transaction
+1987,1,Null Transaction
+1985,4,Null Transaction
+1985,3,Null Transaction
+1985,2,Null Transaction
+1985,1,Buy
+1986,4,Null Transaction
+1986,3,Buy
+1986,2,Null Transaction
+1986,1,Null Transaction
+1989,4,Null Transaction
+1989,3,Buy
+1989,2,Null Transaction
+1989,1,Buy
+1996,4,Null Transaction
+1996,3,Null Transaction
+1996,2,Null Transaction
+1996,1,Buy
+1990,4,Buy
+1990,3,Null Transaction
+1990,2,Null Transaction
+1990,1,Null Transaction
+1999,4,Buy
+1999,3,Null Transaction
+1999,2,Null Transaction
+1999,1,Null Transaction
+1991,4,Null Transaction
+1991,3,Null Transaction
+1991,2,Null Transaction
+1991,1,Buy
+1995,4,Buy
+1995,3,Null Transaction
+1995,2,Null Transaction
+1995,1,Null Transaction
+2000,4,Buy
+2000,3,Buy
+2000,2,Null Transaction
+2000,1,Null Transaction
+1994,4,Null Transaction
+1994,3,Null Transaction
+1994,2,Null Transaction
+1994,1,Null Transaction
+1995,4,Buy
+1995,3,Null Transaction
+1995,2,Null Transaction
+1995,1,Null Transaction
+1998,4,Buy
+1998,3,Null Transaction
+1998,2,Null Transaction
+1998,1,Null Transaction
+2005,4,Null Transaction
+2005,3,Buy
+2005,2,Null Transaction
+2005,1,Null Transaction
+2004,4,Null Transaction
+2004,3,Null Transaction
+2004,2,Buy
+2004,1,Null Transaction
+2005,4,Null Transaction
+2005,3,Null Transaction
+2005,2,Null Transaction
+2005,1,Null Transaction
+2004,4,Null Transaction
+2004,3,Null Transaction
+2004,2,Null Transaction
+2004,1,Null Transaction
+2001,4,Null Transaction
+2001,3,Null Transaction
+2001,2,Null Transaction
+2001,1,Null Transaction
