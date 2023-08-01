@@ -1,9 +1,10 @@
+
 # Event-based Simulation of Simplified DLT (Distributed Ledger Technology)
 This project implements an event-based simulation of an extremely simplified Distributed Ledger Technology (DLT). The simulation involves players (customers A, B, C, D, miners E1, and E2) participating in transactions that are recorded in a blockchain-like structure. The main goal is to evaluate the performance of the DLT system under various conditions.
 
 The simulation follows the following pseudo-code for C++ Implementation:
 
-## Initiate System Definitions and Status:
+### Initiate System Definitions and Status:
 
 Customers A, B, C, D, and miners E1, E2 are defined.
 A linked list (blockchain) maintained by miners contains the ledger.
